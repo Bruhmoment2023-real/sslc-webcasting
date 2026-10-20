@@ -1,0 +1,14 @@
+"name","group","label","slice","color","id","sum","freq"
+"academic corruption","1991-2014","academic corruption--1991-2014","1","#E41A1C80",0,0.326745718050066,524
+"academic dishonesty","1991-2014","academic dishonesty--1991-2014","1","#377EB880",1,0.235836627140975,492
+"examination malpractice","1991-2014","examination malpractice--1991-2014","1","#4DAF4A80",2,0.225296442687747,287
+"grade inflation","1991-2014","grade inflation--1991-2014","1","#984EA380",3,0.212121212121212,433
+"academic dishonesty","2015-2021","academic dishonesty--2015-2021","2","#377EB880",4,0.323905109489051,492
+"academic integrity","2015-2021","academic integrity--2015-2021","2","#FF7F0080",5,0.285583941605839,444
+"corruption","2015-2021","corruption--2015-2021","2","#E41A1C80",6,0.226277372262774,395
+"grade inflation","2015-2021","grade inflation--2015-2021","2","#984EA380",7,0.146897810218978,299
+"high-stakes testing","2015-2021","high-stakes testing--2015-2021","2","#A6562880",8,0.0173357664233577,60
+"academic integrity","2022-2026","academic integrity--2022-2026","3","#FF7F0080",9,0.33692142088267,696
+"examination malpractice","2022-2026","examination malpractice--2022-2026","3","#4DAF4A80",10,0.382131324004306,644
+"university students","2022-2026","university students--2022-2026","3","#F781BF80",11,0.155005382131324,313
+"grade inflation","2022-2026","grade inflation--2022-2026","3","#984EA380",12,0.125941872981701,241

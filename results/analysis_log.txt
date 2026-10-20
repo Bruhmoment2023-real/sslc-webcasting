@@ -1,0 +1,331 @@
+== A1 state series (first/main exam) ==
+population  all_candidates  regular_fresh
+year                                     
+2014                 81.24            NaN
+2015                 81.95          84.85
+2016                 75.11            NaN
+2017                 68.06          73.26
+2018                 72.19          78.11
+2019                 73.70          79.39
+2020                 71.80          75.53
+2021                 99.99         100.00
+2022                 85.80          89.53
+2023                 83.89          87.77
+2024                 73.40          76.91
+2025                 62.34          66.14
+2026                 88.73          94.10
+
+== A2 change 2023->2024 (S1, all candidates) on 2023 level ==
+unweighted: {'n': 34, 'slope': np.float64(-0.381), 'se': np.float64(0.332), 'p': np.float64(0.251), 'r2': np.float64(0.056), 'intercept': np.float64(21.772), 'spearman': np.float64(-0.271), 'spearman_p': np.float64(0.121), 'mean_change': np.float64(-10.745), 'sd_change': np.float64(10.4), 'sd_base': np.float64(6.442)}
+weighted by 2023 candidates: {'n': 34, 'slope': np.float64(-0.515), 'se': np.float64(0.384), 'p': np.float64(0.179), 'r2': np.float64(0.104), 'intercept': np.float64(32.823), 'spearman': np.float64(-0.271), 'spearman_p': np.float64(0.121), 'mean_change': np.float64(-10.745), 'sd_change': np.float64(10.4), 'sd_base': np.float64(6.442)}
+                          district    division  pass_2019  pass_2022  pass_2023  pass_2024_exam1  change_2023_24  rise_2019_23  rank_2023  rank_2024  candidates_2024
+unit                                                                                                                                                                 
+DA                       MADHUGIRI   Bengaluru      81.62      95.18      91.12            62.44          -28.68          9.50        7.0       29.0          12715.0
+QQ                      KALABURAGI  Kalaburagi      66.82      84.12      78.21            53.04          -25.17         11.39       30.0       33.0          45980.0
+RA                         KOPPALA  Kalaburagi      75.00      84.14      84.73            61.16          -23.57          9.73       21.0       31.0          24075.0
+II                     CHITRADURGA   Bengaluru      84.53      95.80      94.67            72.85          -21.82         10.14        1.0       21.0          22275.0
+FF                          MANDYA      Mysuru      81.88      91.84      94.53            73.59          -20.94         12.65        3.0       19.0          20529.0
+NA                        CHIKKODI    Belagavi      82.43      89.06      89.58            69.82          -19.76          7.15       10.0       25.0          44812.0
+CA                 CHIKKABALLAPURA   Bengaluru      73.33      93.24      93.35            73.61          -19.74         20.02        5.0       18.0          15792.0
+EA                 CHAMARAJANAGARA      Mysuru      74.81      89.69      91.06            71.59          -19.47         16.25        8.0       24.0          11655.0
+QA                        YADAGIRI  Kalaburagi      44.55      74.29      69.92            50.59          -19.33         25.36       34.0       34.0          18880.0
+CC                           KOLAR   Bengaluru      82.83      93.39      92.70            73.57          -19.13          9.87        6.0       20.0          19713.0
+NN                        BELAGAVI    Belagavi      76.03      86.98      83.74            64.93          -18.81          7.71       24.0       28.0          33434.0
+RR                        RAICHURU  Kalaburagi      58.39      81.10      79.29            61.20          -18.09         20.90       29.0       30.0          31188.0
+TT    BALLARI (incl. VIJAYANAGARA)  Kalaburagi      71.68      82.27      82.26            65.29          -16.97         10.58       26.0       27.0          42838.0
+BA                      RAMANAGARA   Bengaluru      85.64      92.44      86.29            69.53          -16.76          0.65       16.0       26.0          13088.0
+SS                           BIDAR  Kalaburagi      66.20      81.41      73.40            57.52          -15.88          7.20       32.0       32.0          28110.0
+IA                      DAVANAGERE   Bengaluru      82.82      90.34      88.28            72.49          -15.79          5.46       11.0       23.0          21328.0
+DD                        TUMAKURU   Bengaluru      76.03      89.73      87.04            75.16          -11.89         11.02       14.0       16.0          22198.0
+MM                         DHARWAD    Belagavi      71.72      85.95      83.82            72.67          -11.15         12.10       23.0       22.0          29148.0
+BB                 BENGALURU RURAL   Bengaluru      85.36      91.49      94.62            83.67          -10.95          9.25        2.0        9.0          14223.0
+MA                          HAVERI    Belagavi      75.89      84.05      85.57            75.85           -9.73          9.68       18.0       15.0          22986.0
+MB                           GADAG    Belagavi      68.78      84.94      83.07            74.76           -8.31         14.29       25.0       17.0          15545.0
+LL                          HASSAN      Mysuru      84.95      92.92      94.30            86.28           -8.02          9.35        4.0        6.0          19560.0
+OO                      VIJAYAPURA    Belagavi      72.66      86.00      87.74            79.82           -7.92         15.08       12.0       11.0          40528.0
+OA                      BAGALAKOTE    Belagavi      70.46      82.54      81.56            77.92           -3.64         11.10       27.0       13.0          32129.0
+JJ                  CHIKKAMAGALURU      Mysuru      78.90      84.23      85.48            83.39           -2.09          6.59       20.0       10.0          12934.0
+EE                          MYSURU      Mysuru      76.33      89.48      87.00            85.50           -1.51         10.67       15.0        7.0          38175.0
+HH                          KODAGU      Mysuru      74.80      89.50      89.62            88.67           -0.96         14.83        9.0        4.0           6123.0
+PP                  UTTARA KANNADA    Belagavi      84.00      87.81      87.23            86.54           -0.69          3.22       13.0        5.0           9842.0
+PA                           SIRSI    Belagavi      81.13      82.62      84.14            84.64            0.50          3.01       22.0        8.0          10046.0
+AN                 BENGALURU NORTH   Bengaluru      69.99      81.33      75.45            77.09            1.64          5.46       31.0       14.0          49444.0
+AS                 BENGALURU SOUTH   Bengaluru      61.62      76.72      72.78            79.00            6.21         11.17       33.0       12.0          63186.0
+GG                DAKSHINA KANNADA      Mysuru      80.54      86.54      85.52            92.12            6.59          4.98       19.0        2.0          29701.0
+GA                           UDUPI      Mysuru      83.39      89.26      86.05            94.00            7.95          2.66       17.0        1.0          14092.0
+KK                      SHIVAMOGGA   Bengaluru      74.71      82.99      80.15            88.67            8.53          5.43       28.0        3.0          23028.0
+
+== A3 mean-reversion placebo: change t0->t1 on level t0 (S1) ==
+     pair                                   kind  n  mean_change  sd_change  sd_base  slope    se     p    r2  spearman
+2014-2015                                placebo 34        0.346      5.889    4.880 -0.308 0.149 0.039 0.065    -0.412
+2015-2016                                placebo 34       -6.916      6.461    6.621 -0.301 0.137 0.027 0.095    -0.305
+2016-2017                                placebo 34       -6.659      6.978    7.693 -0.655 0.159 0.000 0.522    -0.539
+2017-2018                                placebo 34        3.493      8.560    5.507  0.058 0.156 0.710 0.001    -0.040
+2018-2019                                placebo 34        2.804      5.797   10.350 -0.295 0.083 0.000 0.278    -0.489
+2019-2020                                placebo 34       -1.418      7.905    8.802 -0.173 0.107 0.107 0.037    -0.150
+2020-2022 placebo (2-year gap across COVID exam) 34       12.994      7.594   10.638 -0.639 0.068 0.000 0.802    -0.908
+2022-2023                                placebo 34       -1.444      2.721    5.113  0.152 0.092 0.098 0.082     0.231
+2023-2024                        webcasting year 34      -10.745     10.400    6.442 -0.381 0.332 0.251 0.056    -0.271
+
+== A4 baselines measured in a different year (S1) ==
+                                                      spec  n  slope    se     p    r2  spearman  spearman_p
+               A4a change 2023-24 on 2018-19 average level 34  0.139 0.185 0.452 0.015     0.062       0.727
+                          A4b change 2023-24 on 2022 level 34 -0.628 0.428 0.142 0.095    -0.328       0.058
+                        A4c change 2023-24 on rise 2019-23 34 -0.748 0.273 0.006 0.147    -0.394       0.021
+A4c2 change 2023-24 on rise (2018-19 avg) to (2022-23 avg) 34 -0.723 0.271 0.008 0.186    -0.441       0.009
+   A4d change (2018-19 avg)->2024 on 2018-19 average level 34 -0.345 0.146 0.018 0.108    -0.296       0.090
+                   A4e [post hoc] 2024 level on 2023 level 34  0.619 0.332 0.062 0.135     0.231       0.189
+        A4f [post hoc] 2024 level on 2018-19 average level 34  0.655 0.146 0.000 0.305     0.346       0.045
+        A4g [post hoc] 2023 level on 2018-19 average level 34  0.516 0.093 0.000 0.539     0.665       0.000
+placebo analogue of A4c: change 2018-19 on rise 2014-18: {'n': 34, 'slope': np.float64(-0.319), 'se': np.float64(0.156), 'p': np.float64(0.041), 'r2': np.float64(0.303), 'intercept': np.float64(-0.3), 'spearman': np.float64(-0.504), 'spearman_p': np.float64(0.002), 'mean_change': np.float64(2.804), 'sd_change': np.float64(5.797), 'sd_base': np.float64(9.997)}
+leave-one-out slope range A2: -0.587 -0.249 | A4c: -0.9 -0.633
+
+== A5 event study (S1; 2021 dropped; reference year 2023) ==
+spec  standardised 2018-19 average  standardised 2023 level  standardised rise 2019-23  top tercile of 2018-19 average  top tercile of 2023 level
+year                                                                                                                                             
+2014                         -3.02                    -4.56                       0.03                           -2.47                      -8.04
+2015                         -1.16                    -3.50                      -1.61                            1.24                      -6.31
+2016                         -0.86                    -3.99                      -2.62                            0.44                      -9.18
+2017                         -1.64                    -4.39                      -1.42                           -0.59                      -8.56
+2018                          5.24                    -0.02                      -5.70                            5.58                      -4.58
+2019                          3.62                     0.59                      -5.33                            5.36                      -2.32
+2020                          1.37                     0.91                      -2.42                            2.94                       2.05
+2022                         -1.00                    -1.77                      -0.37                           -0.03                      -2.63
+2023                          0.00                     0.00                       0.00                            0.00                       0.00
+2024                          1.27                    -2.45                      -3.98                           -2.18                      -8.27
+standard errors:
+spec  standardised 2018-19 average  standardised 2023 level  standardised rise 2019-23  top tercile of 2018-19 average  top tercile of 2023 level
+year                                                                                                                                             
+2014                          1.15                     1.01                       2.09                            2.29                       1.93
+2015                          1.56                     0.83                       2.13                            2.37                       2.18
+2016                          1.03                     1.05                       1.67                            3.12                       2.53
+2017                          1.37                     1.07                       2.00                            2.70                       2.17
+2018                          0.97                     2.38                       1.29                            2.65                       3.01
+2019                          0.68                     1.34                        NaN                            1.57                       1.84
+2020                          1.03                     1.11                       1.09                            2.90                       2.79
+2022                          0.42                     0.36                       0.55                            1.01                       0.87
+2023                          0.00                     0.00                       0.00                            0.00                       0.00
+2024                          1.59                     2.03                       1.45                            4.18                       3.38
+
+== A6 regular freshers (S2): change from 2023 to 2025 Exam-1 and to 2026 Exam-1 ==
+                                               spec  n  mean_change  slope    se     p    r2  spearman
+                       change 2023-25 on 2023 level 34      -21.078 -0.486 0.342 0.155 0.054    -0.308
+            change 2023-25 on 2018-19 average level 34      -21.078  0.229 0.246 0.352 0.027     0.136
+                     change 2023-25 on rise 2019-23 34      -21.078 -1.151 0.458 0.012 0.222    -0.390
+change (2018-19 avg)->2025 on 2018-19 average level 34      -11.354 -0.301 0.288 0.296 0.057    -0.176
+                2025 level on 2018-19 average level 34       67.830  0.699 0.288 0.015 0.247     0.385
+                           2025 level on 2023 level 34       67.830  0.514 0.342 0.133 0.060     0.152
+                       change 2023-26 on 2023 level 34        5.510 -0.897 0.084 0.000 0.764    -0.852
+                       change 2025-26 on 2025 level 34       26.588 -0.814 0.040 0.000 0.965    -0.961
+              placebo: change 2022-23 on 2022 level 34       -1.580  0.139 0.110 0.207 0.052     0.259
+              placebo: change 2018-19 on 2018 level 34        2.530 -0.415 0.076 0.000 0.431    -0.520
+              placebo: change 2017-18 on 2017 level 34        3.945 -0.227 0.224 0.311 0.014    -0.181
+              placebo: change 2019-20 on 2019 level 34       -3.200 -0.064 0.145 0.658 0.004     0.009
+                          district  rf_2019  rf_2023  rf_2025_exam1  rf_2026_exam1  change_2023_25  change_2019_25
+unit                                                                                                              
+QQ                      KALABURAGI    75.22    84.52          42.43          85.06          -42.08          -32.78
+OO                      VIJAYAPURA    77.72    91.24          49.58          94.16          -41.66          -28.14
+II                     CHITRADURGA    87.80    96.81          63.21          92.25          -33.60          -24.59
+RA                         KOPPALA    81.36    90.28          57.32          93.10          -32.96          -24.05
+EA                 CHAMARAJANAGARA    81.07    94.37          61.45          91.89          -32.92          -19.62
+DA                       MADHUGIRI    85.49    93.23          60.65          90.24          -32.58          -24.84
+CA                 CHIKKABALLAPURA    80.27    96.15          63.64          90.88          -32.51          -16.63
+RR                        RAICHURU    66.24    84.02          52.05          94.41          -31.97          -14.19
+NA                        CHIKKODI    84.55    91.07          62.12          94.09          -28.96          -22.43
+FF                          MANDYA    86.21    96.74          69.27          97.45          -27.46          -16.94
+BA                      RAMANAGARA    89.02    89.43          63.12          92.83          -26.31          -25.90
+CC                           KOLAR    86.94    94.60          68.47          95.50          -26.13          -18.47
+SS                           BIDAR    75.46    78.73          53.25          92.17          -25.47          -22.20
+IA                      DAVANAGERE    86.28    90.45          66.09          94.64          -24.35          -20.19
+QA                        YADAGIRI    54.88    75.54          51.60          91.89          -23.93           -3.28
+NN                        BELAGAVI    77.78    85.86          62.16          94.75          -23.70          -15.61
+TT    BALLARI (incl. VIJAYANAGARA)    78.57    86.43          63.87          94.86          -22.56          -14.70
+BB                 BENGALURU RURAL    88.47    96.48          74.02          95.83          -22.46          -14.45
+DD                        TUMAKURU    80.22    89.43          67.03          92.04          -22.40          -13.19
+EE                          MYSURU    80.65    89.75          68.39          94.45          -21.36          -12.26
+MA                          HAVERI    80.43    89.11          69.03          96.87          -20.08          -11.40
+MM                         DHARWAD    75.41    86.56          67.62          95.59          -18.94           -7.79
+MB                           GADAG    74.84    86.51          67.72          95.24          -18.79           -7.12
+OA                      BAGALAKOTE    75.81    85.14          68.29          95.42          -16.85           -7.52
+LL                          HASSAN    89.75    96.68          82.12          97.51          -14.56           -7.63
+JJ                  CHIKKAMAGALURU    83.71    89.70          77.90          94.99          -11.80           -5.81
+HH                          KODAGU    78.94    93.21          82.21          96.68          -11.00            3.26
+AN                 BENGALURU NORTH    75.88    80.93          72.27          95.33           -8.66           -3.61
+PP                  UTTARA KANNADA    88.23    90.54          83.19          98.09           -7.35           -5.04
+PA                           SIRSI    85.02    87.39          80.47          97.21           -6.93           -4.55
+AS                 BENGALURU SOUTH    68.42    78.96          72.30          91.64           -6.65            3.89
+KK                      SHIVAMOGGA    79.66    84.05          82.29          96.56           -1.76            2.63
+GA                           UDUPI    88.11    89.49          89.96          98.18            0.46            1.84
+GG                DAKSHINA KANNADA    86.85    89.47          91.12          98.40            1.64            4.27
+correlation of district falls: S1 2023-24 vs S2 2023-25: 0.88
+cross-district s.d. of pass rate by year, S1: {2014: 4.88, 2015: 6.62, 2016: 7.69, 2017: 5.51, 2018: 10.35, 2019: 8.8, 2020: 10.64, 2021: 0.0, 2022: 5.11, 2023: 6.44, 2024: 10.87}
+cross-district s.d. of pass rate by year, S2: {2015: 6.2, 2017: 4.81, 2018: 9.78, 2019: 7.38, 2020: 10.12, 2021: 0.0, 2022: 4.21, 2023: 5.42, 2025: 11.39, 2026: 2.76}
+
+== A7 management type ==
+state totals from workbooks (main exam to 2023; cumulative from 2024):
+management       aided    govt  unaided
+year scope                             
+2015 main_exam   83.26   83.14    88.94
+2017 main_exam   68.87   70.38    80.70
+2018 main_exam   76.27   75.12    83.05
+2019 main_exam   77.21   77.85    82.72
+2020 main_exam   70.60   72.79    82.31
+2021 main_exam  100.00  100.00   100.00
+2022 main_exam   88.03   88.13    92.52
+2023 main_exam   85.64   86.74    90.90
+2024 best_of_3   82.55   82.69    92.81
+2025 best_of_3   75.04   77.15    87.31
+2026 best_of_2   97.41   98.06    98.65
+Exam-1 by management from press notes:
+group  aided  government  unaided
+year                             
+2022   87.84       88.00    92.29
+2024   72.22       72.46    86.46
+2025   58.97       62.70    75.59
+2026   92.44       93.97    95.40
+                                                                              spec  n  mean_change  slope    se     p    r2  spearman
+   govt: change 2023 main -> 2024 cumulative on 2023 level (S3, not like-for-like) 34       -2.842 -0.722 0.149 0.000 0.385    -0.573
+   govt: change 2023 main -> 2025 cumulative on 2023 level (S3, not like-for-like) 34       -8.496 -0.589 0.165 0.000 0.253    -0.543
+  aided: change 2023 main -> 2024 cumulative on 2023 level (S3, not like-for-like) 34       -3.344 -0.845 0.223 0.000 0.397    -0.677
+  aided: change 2023 main -> 2025 cumulative on 2023 level (S3, not like-for-like) 34      -10.880 -0.631 0.309 0.041 0.173    -0.545
+unaided: change 2023 main -> 2024 cumulative on 2023 level (S3, not like-for-like) 34        0.089 -0.416 0.162 0.010 0.228    -0.399
+unaided: change 2023 main -> 2025 cumulative on 2023 level (S3, not like-for-like) 34       -4.407  0.031 0.258 0.903 0.001    -0.004
+
+== A8 subject pass rates, regular freshers (main exam to 2023; cumulative from 2024) ==
+subject  language_1  language_2  language_3  mathematics  science  social_science
+year                                                                             
+2015          96.57       87.84       87.47        90.60      NaN             NaN
+2017          89.08       85.16       90.67        80.26    91.89           89.03
+2018          92.53       87.74       92.30        86.08    89.62           90.81
+2019          94.10       91.58       93.48        85.31    91.09           91.71
+2020          93.97       85.59       93.43        85.45    84.63           91.57
+2021         100.00      100.00      100.00       100.00   100.00          100.00
+2022          93.17       94.42       96.17        95.19    95.61           96.28
+2023          93.99       93.97       94.93        94.46    91.49           94.40
+2024          89.45       88.17       88.68        87.47    86.73           88.63
+2025          88.56       88.13       89.02        84.94    84.58           88.45
+2026          98.99       99.28       99.47        99.20    99.05           99.33
+
+== A9 grade distribution ==
+Exam-1 / main exam, share of passes by grade (press notes):
+grade  A_plus      A  B_plus      B  C_plus      C
+year                                              
+2023     8.83  21.38   25.41  24.66   16.92   2.80
+2024     5.58  12.39   16.09  19.90   22.38  23.66
+2025    10.53  18.46   21.96  24.19   20.98   3.88
+2026     9.41  17.99   19.45  19.68   17.76  15.71
+grade  A_plus       A  B_plus       B  C_plus       C
+year                                                 
+2023    61003  147634  175489  170296  116819   19301
+2024    39034   86619  112472  139178  156487  165443
+2025    55066   96536  114852  126541  109762   20318
+2026    68207  130403  140963  142645  128722  113854
+workbooks (main exam to 2023; cumulative from 2024):
+           app    passed    A_plus         A    B_plus         B    C_plus         C  C_share_of_passes  C_share_of_appeared
+year                                                                                                                        
+2015  788442.0  668980.0   27389.0   77478.0  123321.0  164081.0  170371.0  106341.0              15.90                13.49
+2017  764950.0  560439.0   36138.0   93332.0  137098.0  157693.0  114879.0   21299.0               3.80                 2.78
+2018  744461.0  581518.0   33046.0  107045.0  151928.0  160613.0  109509.0   19376.0               3.33                 2.60
+2019  738569.0  586315.0   35118.0  109316.0  154001.0  162892.0  107165.0   17823.0               3.04                 2.41
+2020  738471.0  557779.0   37457.0  105345.0  147801.0  153860.0   98704.0   14612.0               2.62                 1.98
+2021  780542.0  780542.0  128931.0  250317.0  287684.0  113610.0       0.0       0.0               0.00                 0.00
+2022  807205.0  722704.0  119339.0  182316.0  173523.0  144236.0   88428.0   14862.0               2.06                 1.84
+2023  786844.0  690581.0   61008.0  147648.0  175497.0  170303.0  116823.0   19302.0               2.80                 2.45
+2024  804103.0  690812.0   33796.0   83179.0  110172.0  137830.0  175951.0  149884.0              21.70                18.64
+2025  796784.0  637731.0   56470.0   96384.0  115363.0  137010.0  170987.0   61517.0               9.65                 7.72
+2026  772504.0  757878.0   70431.0  129768.0  140256.0  143009.0  131646.0  142768.0              18.84                18.48
+
+== A10 booked malpractice cases (PRO-10) ==
+                cases  districts_with_cases
+year scope                                 
+2017 main_exam   15.0                     7
+2018 main_exam   70.0                    10
+2019 main_exam   21.0                     9
+2020 main_exam   18.0                     6
+2021 main_exam    1.0                     1
+2022 main_exam   18.0                     8
+2023 main_exam   14.0                     4
+2024 best_of_3   34.0                    12
+2025 best_of_3    7.0                     4
+2026 best_of_2    9.0                     8
+
+== A11 gender, medium, area (state level, press notes) ==
+group                 boys  girls
+year population                  
+2023 all_candidates  80.08  87.87
+2024 all_candidates  65.90  81.11
+     regular_fresh   70.16  83.54
+2025 regular_fresh   58.07  74.00
+2026 regular_fresh   91.94  96.18
+group               english  kannada  marathi   urdu
+year population                                     
+2023 regular_fresh    91.66    85.59    83.44  76.40
+2024 regular_fresh    88.29    69.34    69.32  63.49
+2025 regular_fresh    78.38    57.61    53.97  46.46
+2026 regular_fresh    96.16    92.60    92.93  90.34
+group                rural  rural_as_printed  urban  urban_as_printed
+year population                                                      
+2023 all_candidates  87.00               NaN  79.62               NaN
+2024 all_candidates    NaN             74.17    NaN             72.83
+2025 regular_fresh   65.47               NaN  67.05               NaN
+2026 regular_fresh   94.80               NaN  93.20               NaN
+                boys_pct  girls_pct  gap_girls_minus_boys
+year scope                                               
+2015 main_exam     82.12      87.71                  5.59
+2017 main_exam     69.45      77.24                  7.80
+2018 main_exam     74.76      81.57                  6.81
+2019 main_exam     76.05      82.82                  6.78
+2020 main_exam     71.20      79.96                  8.75
+2021 main_exam    100.00     100.00                  0.00
+2022 main_exam     86.55      92.59                  6.04
+2023 main_exam     85.09      90.43                  5.34
+2024 best_of_3     81.13      90.61                  9.48
+2025 best_of_3     74.25      85.70                 11.45
+2026 best_of_2     97.38      98.80                  1.42
+                rural_app  urban_app  rural_pct  urban_pct
+year scope                                                
+2015 main_exam   444771.0   343671.0      86.36      82.89
+2017 main_exam   428471.0   336479.0      74.12      72.18
+2018 main_exam   416319.0   328142.0      79.52      76.33
+2019 main_exam   411274.0   327295.0      81.89      76.23
+2020 main_exam   415100.0   323371.0      77.18      73.41
+2021 main_exam   445461.0   335081.0     100.00     100.00
+2022 main_exam   469105.0   338100.0      91.44      86.88
+2023 main_exam   462065.0   324779.0      90.07      84.49
+2024 best_of_3   469875.0   334228.0      84.82      87.44
+2025 best_of_3   458776.0   338008.0      79.85      80.29
+2026 best_of_2   443781.0   328723.0      98.28      97.87
+
+== A12 (exploratory) school-level markers from 2018-19 ==
+                                                                    spec  n   slope     se     p    r2  spearman
+              change 2023-24 (S1) on share_schools_100pct (2018-19 mean) 34   4.472 31.204 0.886 0.001    -0.007
+              change 2023-25 (S2) on share_schools_100pct (2018-19 mean) 34  32.287 32.595 0.322 0.028     0.083
+              change 2023-24 (S1) on share_schools_95plus (2018-19 mean) 34   3.492 20.016 0.861 0.001    -0.011
+              change 2023-25 (S2) on share_schools_95plus (2018-19 mean) 34  20.566 20.354 0.312 0.028     0.077
+  change 2023-24 (S1) on share_students_in_100pct_schools (2018-19 mean) 34  25.070 36.332 0.490 0.015     0.114
+  change 2023-25 (S2) on share_students_in_100pct_schools (2018-19 mean) 34  57.787 38.511 0.133 0.067     0.190
+                    change 2023-24 (S1) on school_pass_sd (2018-19 mean) 34  -0.354  0.671 0.597 0.012    -0.084
+                    change 2023-25 (S2) on school_pass_sd (2018-19 mean) 34  -0.771  0.734 0.294 0.046    -0.104
+change 2023-24 (S1) on share of schools with 100 per cent result in 2023 34 -20.160 10.355 0.052 0.095    -0.273
+change 2023-25 (S2) on share of schools with 100 per cent result in 2023 34 -18.074 10.654 0.090 0.064    -0.290
+state share of schools with 100 per cent result by year (workbooks):
+      total_schools    total   share100   share
+year                                           
+2017        14154.0    925.0   2.395786    6.54
+2018        14270.0   1342.0   3.366994    9.40
+2019        14445.0   1626.0   4.184612   11.26
+2020        14696.0   1550.0   4.086388   10.55
+2021        14927.0  14927.0  34.000000  100.00
+2022        15337.0   4084.0   9.720897   26.63
+2023        15493.0   3830.0   9.255972   24.72
+2024        15655.0   3731.0   8.515209   23.83
+2025        15816.0   2283.0   5.407737   14.43
+2026        16044.0  10516.0  23.074559   65.54
+
+== POST HOC: by division ==
+            p2019  p2023  p2024    chg  rf2023  rf2025  rf_chg
+division                                                      
+Belagavi    75.90  85.16  76.33  -8.83   88.16   67.80  -20.36
+Bengaluru   78.04  86.95  75.28 -11.67   90.05   68.46  -21.58
+Kalaburagi  63.77  77.97  58.13 -19.84   83.25   53.42  -29.83
+Mysuru      79.45  89.20  84.39  -4.80   92.42   77.80  -14.62

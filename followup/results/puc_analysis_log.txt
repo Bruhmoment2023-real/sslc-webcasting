@@ -1,0 +1,46 @@
+=== U2 reshuffle, U3 spread, U5 mean-reversion slope (PU regular students, pass %)
+pair | n | Spearman | Pearson | sd of change | mean change | n rising | n falling | slope of change on start level (se, p, R2)
+2016-2017 | 31 | 0.881 | 0.909 | 4.96 | -4.32 | 4 | 27 | -0.00 (0.08, p=0.990, R2=0.00)
+2017-2018 | 30 | 0.908 | 0.946 | 4.14 | 9.30 | 30 | 0 | -0.23 (0.05, p=0.000, R2=0.43)
+2018-2023 | 32 | 0.710 | 0.781 | 6.27 | 10.97 | 31 | 1 | -0.40 (0.10, p=0.000, R2=0.40)
+2023-2024 | 32 | 0.959 | 0.944 | 2.62 | 5.26 | 32 | 0 | -0.18 (0.07, p=0.015, R2=0.27)
+2024-2025 | 32 | 0.783 | 0.761 | 6.77 | -11.55 | 0 | 32 | 0.16 (0.28, p=0.573, R2=0.02)
+2025-2026 | 32 | 0.812 | 0.843 | 6.11 | 13.49 | 32 | 0 | -0.50 (0.07, p=0.000, R2=0.71)
+
+=== U4 give-back (OLS, HC3): change on earlier rise
+change 2024->2025 on rise 2018->2024: n=32 slope=-0.66 (se 0.23, p=0.005, R2=0.47)
+change 2023->2024 on rise 2018->2023: n=32 slope=0.03 (se 0.07, p=0.668, R2=0.01)
+change 2017->2018 on rise 2016->2017 (Belagavi, Chikkodi excluded: 2018 Belagavi no longer includes Chikkodi): n=30 slope=-0.42 (se 0.26, p=0.106, R2=0.19)
+change 2024->2025 on one-year rise 2023->2024: n=32 slope=-1.73 (se 0.49, p=0.000, R2=0.45)
+change 2025->2026 on rise 2018->2025 (post hoc extra): n=32 slope=-0.29 (se 0.26, p=0.254, R2=0.07)
+
+=== U4 post hoc (NOT in the frozen spec): remove the shared-2024 mechanical link
+change 2024->2025 on rise 2018->2023 (clean of 2024): n=32 slope=-0.52 (se 0.24, p=0.029, R2=0.23)
+change 2024->2025 on 2023 level: n=32 slope=0.31 (se 0.18, p=0.076, R2=0.13)
+change 2024->2025 on 2018 level: n=32 slope=0.39 (se 0.08, p=0.000, R2=0.33)
+change 2023->2024 on 2018 level (the SSLC A4a analogue timing): n=32 slope=-0.12 (se 0.05, p=0.018, R2=0.20)
+
+=== U7 same districts: SSLC (aggregated to 32 PU districts) change vs PU change
+SSLC S1 change 2023->24 vs PU change 2023->24: n=32 Spearman=-0.173 Pearson=-0.211
+SSLC S1 change 2023->24 vs PU change 2024->25: n=32 Spearman=0.530 Pearson=0.424
+SSLC S1 change 2023->24 vs PU change 2023->25: n=32 Spearman=0.547 Pearson=0.430
+SSLC S2 change 2023->25 vs PU change 2023->24: n=32 Spearman=-0.269 Pearson=-0.314
+SSLC S2 change 2023->25 vs PU change 2024->25: n=32 Spearman=0.652 Pearson=0.630
+SSLC S2 change 2023->25 vs PU change 2023->25: n=32 Spearman=0.654 Pearson=0.640
+
+=== U8 same-year SSLC vs PU district pass-rate rank correlation
+2018 (SSLC S1): n=32 Spearman=0.089 Pearson=0.318
+2023 (SSLC S1): n=32 Spearman=0.262 Pearson=0.266
+2024 (SSLC S1): n=32 Spearman=0.739 Pearson=0.746
+2025 (SSLC S2): n=32 Spearman=0.865 Pearson=0.889
+2026 (SSLC S2): n=32 Spearman=0.430 Pearson=0.462
+
+=== Context (descriptive): biggest PU changes
+2023->2024 largest falls: UDUPI 1.6, KODAGU 1.6, DAKSHINA KANNADA 2.0, HASSAN 2.7, UTTARA KANNADA 2.8 | largest rises: BENGALURU SOUTH +7.3, BAGALAKOTE +8.8, VIJAYAPURA +10.2, YADAGIRI +14.3
+2024->2025 largest falls: VIJAYAPURA -36.1, YADAGIRI -28.8, KALABURAGI -19.8, CHIKKODI -17.3, BAGALAKOTE -14.7 | largest rises: BENGALURU NORTH -5.4, BENGALURU SOUTH -4.2, DAKSHINA KANNADA -3.8, UDUPI -2.9
+
+SSLC for the same 32 units (aggregated), reshuffle check: Spearman of consecutive S1 years
+SSLC S1 2017-2018: n=32 Spearman=0.645
+SSLC S1 2018-2019: n=32 Spearman=0.676
+SSLC S1 2022-2023: n=32 Spearman=0.923
+SSLC S1 2023-2024: n=32 Spearman=0.282

@@ -1,0 +1,7 @@
+spec,n,mean_change,slope,se,p,r2,spearman
+"govt: change 2023 main -> 2024 cumulative on 2023 level (S3, not like-for-like)",34,-2.842,-0.722,0.149,0.0,0.385,-0.573
+"govt: change 2023 main -> 2025 cumulative on 2023 level (S3, not like-for-like)",34,-8.496,-0.589,0.165,0.0,0.253,-0.543
+"aided: change 2023 main -> 2024 cumulative on 2023 level (S3, not like-for-like)",34,-3.344,-0.845,0.223,0.0,0.397,-0.677
+"aided: change 2023 main -> 2025 cumulative on 2023 level (S3, not like-for-like)",34,-10.88,-0.631,0.309,0.041,0.173,-0.545
+"unaided: change 2023 main -> 2024 cumulative on 2023 level (S3, not like-for-like)",34,0.089,-0.416,0.162,0.01,0.228,-0.399
+"unaided: change 2023 main -> 2025 cumulative on 2023 level (S3, not like-for-like)",34,-4.407,0.031,0.258,0.903,0.001,-0.004

@@ -1,0 +1,49 @@
+"groups","words","name_full","n","centrality","density","rcentrality","rdensity","name","color","freq"
+1,"examination malpractice 12
+academic dishonesty 11.8
+university students 3.2
+student perceptions 2.7
+high school students 2.6
+examination integrity 1.8
+nigeria 1.7
+exam cheating 1.6
+secondary schools 1.6
+invigilation 1.5","examination malpractice
+academic dishonesty
+university students",45,1.57459346912021,11.1166308332364,4,1,"examination malpractice","#E41A1C80",1454
+2,"academic integrity 10.4
+cheating 6.1
+online examinations 4.8
+covid-19 pandemic 3.6
+online proctoring 3.2
+online assessment 3
+cheating detection 2.4
+online learning 2.3
+cheating prevention 1.9
+distance education 1.5","academic integrity
+cheating
+online examinations",45,1.13857464316892,12.8481687266714,1,2,"academic integrity","#377EB880",1299
+3,"grade inflation 7.9
+academic performance 4.8
+high-stakes testing 2.7
+learning outcomes 2.1
+grade point average 2
+india 1.7
+public schools 1.6
+standardized testing 1.6
+education policy 1.6
+private schools 1.4","grade inflation
+academic performance
+high-stakes testing",49,1.48944464783674,14.2386569776723,3,3,"grade inflation","#4DAF4A80",915
+4,"higher education 5.8
+academic corruption 5.5
+corruption 4.8
+corruption in education 2.5
+educational quality 2.4
+bribery 2.3
+anti-corruption 1.9
+higher education institutions 1.7
+university governance 1.4
+anti-corruption policy 1.4","higher education
+academic corruption
+corruption",54,1.35067494418828,15.3364216639962,2,4,"higher education","#984EA380",1009

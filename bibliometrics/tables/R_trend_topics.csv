@@ -1,0 +1,61 @@
+"item","freq","year_q1","year_med","year_q3"
+"grade point average",35,2002,2008,2014
+"educational assessment",9,1999,2008,2013
+"educational reform",19,2008,2009,2014
+"university admission",17,2008,2009,2017
+"grading policy",8,2004,2010,2013
+"educational corruption",19,2008,2011,2016
+"grading criteria",12,2004,2011,2012
+"higher education access",11,2009,2011,2014
+"educational standards",9,2010,2011,2013
+"student motivation",20,2008,2012,2022
+"higher education quality",15,2007,2012,2022
+"higher education reform",14,2009,2012,2013
+"higher education policy",12,2006,2012,2022
+"andhra pradesh",9,2012,2013,2018
+"developing countries",8,2000,2013,2018
+"grade inflation",141,2007,2014,2022
+"academic performance",84,2012,2014,2022
+"standardized testing",27,2008,2014,2020
+"student assessment",21,2004,2014,2021
+"public schools",27,2011,2015,2022
+"education policy",26,2010,2015,2019
+"university governance",25,2009,2015,2022
+"private schools",22,2013,2015,2020
+"higher education",107,2012,2016,2022
+"academic corruption",103,2011,2016,2020
+"corruption",90,2011,2016,2020
+"high-stakes testing",47,2010,2016,2020
+"high school students",63,2012,2017,2022
+"india",28,2015,2017,2019
+"primary education",23,2012,2017,2019
+"teacher professional development",17,2012,2017,2024
+"nigeria",42,2014,2018,2022
+"bribery",40,2013,2018,2024
+"exam cheating",40,2011,2018,2021
+"gender differences",33,2012,2018,2022
+"examination malpractice",299,2014,2019,2024
+"academic dishonesty",291,2013,2019,2023
+"cheating",134,2013,2019,2022
+"learning outcomes",37,2016,2019,2022
+"university students",78,2013,2020,2023
+"examination integrity",44,2013,2020,2024
+"secondary schools",39,2015,2020,2024
+"higher education institutions",30,2014,2020,2023
+"online assessment",63,2018,2021,2023
+"student perceptions",63,2013,2021,2023
+"online learning",49,2017,2021,2023
+"cheating prevention",41,2017,2021,2023
+"academic integrity",226,2017,2022,2024
+"online examinations",106,2020,2022,2024
+"covid-19 pandemic",77,2021,2022,2023
+"online proctoring",70,2020,2022,2023
+"undergraduate students",29,2017,2023,2024
+"fear of failure",13,2017,2023,2024
+"exam security",11,2023,2023,2025
+"virtual learning environments",11,2021,2023,2024
+"computer-based testing",15,2020,2024,2025
+"peer pressure",12,2018,2024,2026
+"biometric authentication",11,2020,2024,2026
+"integrity",10,2020,2024,2025
+"nepotism",9,2014,2025,2025

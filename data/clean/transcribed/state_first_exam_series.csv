@@ -1,0 +1,28 @@
+year,exam,population,appeared,passed,pct,source,note
+2014,April 2014 main,all_candidates,813601,661002,81.24,5years.xlsx sheet 5YEARS,
+2015,April 2015 main,all_candidates,836604,685560,81.95,5years.xlsx sheet 5YEARS,PRO-9A in later workbooks gives 837357/685156 = 81.82
+2016,April 2016 main,all_candidates,835646,627613,75.11,5years.xlsx sheet 5YEARS,PRO-9A gives 836268/627268 = 75.01
+2017,April 2017 main,all_candidates,856026,582584,68.06,5years.xlsx sheet 2017 (sum of districts),PRO-9A gives 856245/581169 = 67.87
+2018,April 2018 main,all_candidates,838066,604992,72.19,5years.xlsx sheet 2018 (sum of districts),PRO-9A gives 838088/602802 = 71.93
+2019,April 2019 main,all_candidates,825468,608336,73.70,PN_2023_Main.pdf table 1; PRO-9A,
+2020,June/July 2020 main,all_candidates,811050,582316,71.80,PN_2023_Main.pdf table 1; PRO-9A,exam postponed from March to June/July by COVID
+2021,July 2021 two-day exam,all_candidates,871443,871442,99.99,PN_2023_Main.pdf table 1; PRO-9A,COVID format; effectively everyone passed
+2022,March/April 2022 main,all_candidates,853435,732268,85.80,PROFORMA 2024 PRO-9A,press notes of 2022 and 2023 print 860164 appeared = 85.13
+2023,March/April 2023 main,all_candidates,835102,700619,83.89,PN_2023_Main.pdf table 1,workbook after revaluation: 700658 passed = 83.90
+2024,2024 Exam-1,all_candidates,859967,631204,73.40,PN_2024_Exam1.pdf table 1,after one-time 20 per cent grace; about 54 per cent before grace (news report of board statement)
+2025,2025 Exam-1,all_candidates,842173,524984,62.34,PN_2025_Exam1.pdf table 5,
+2026,2026 Exam-1,all_candidates,856516,760002,88.73,PN_2026_Exam1.pdf page 6,pass mark 33 per cent
+2015,April 2015 main,regular_fresh,788442,668980,84.85,April 2015 stats.xlsx PRO-5 (sum of districts),
+2017,April 2017 main,regular_fresh,764950,560439,73.26,SSLCAPR2017.xlsx PRO-5 (sum of districts),
+2018,April 2018 main,regular_fresh,744461,581518,78.11,PROFORMA APRIL 2018.xlsx PRO-5 (sum of districts),
+2019,April 2019 main,regular_fresh,738569,586315,79.39,PROFORMA APRIL 2019.xlsx PRO-5 (sum of districts),
+2020,June/July 2020 main,regular_fresh,738471,557779,75.53,PROFORMA JUNE_JULY 2020 LATEST.xlsx PRO-5 (sum of districts),
+2021,July 2021 two-day exam,regular_fresh,780542,780542,100.00,PROFORMA JULY 2021.xlsx PRO-5 (sum of districts),COVID format
+2022,March/April 2022 main,regular_fresh,807205,722704,89.53,PROFORMA_APRIL_2022_FINAL.xlsx PRO-5 (sum of districts),press note at result time: 807206/721331 = 89.36
+2023,March/April 2023 main,regular_fresh,786844,690581,87.77,PROFORMA_APRIL_2023_FINAL.xlsx PRO-5 (sum of districts),press note at result time: 690542 passed = 87.76
+2024,2024 Exam-1,regular_fresh,803107,617665,76.91,PN_2024_Exam1.pdf table 4,after one-time 20 per cent grace
+2025,2025 Exam-1,regular_fresh,790890,523075,66.14,PN_2025_Exam1.pdf table 1,
+2026,2026 Exam-1,regular_fresh,770209,724794,94.10,PN_2026_Exam1.pdf page 3,pass mark 33 per cent
+2024,2024 best of Exams 1-3,regular_fresh_cumulative,804103,690812,85.91,SSLC 2024 Exam Best of 3 PROFORMA.xlsx PRO-1,not comparable with earlier years
+2025,2025 best of Exams 1-3,regular_fresh_cumulative,796784,637731,80.04,SSLC 2025 Exam Best of 3 PROFORMA.xlsx PRO-1,not comparable with earlier years
+2026,2026 best of Exams 1-2,regular_fresh_cumulative,772504,757878,98.11,SSLC 2026 Exam Best of 2 PROFORMA.xlsx PRO-1,press note of 30 May 2026 prints 772514/757719 = 98.08

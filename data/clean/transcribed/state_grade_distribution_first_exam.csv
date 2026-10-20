@@ -1,0 +1,25 @@
+year,exam,population,grade,band,students,pct_of_passes_printed,source
+2023,March/April 2023 main,regular_fresh,A_plus,90-100,61003,8.83,PN_2024_Exam1.pdf table 11
+2023,March/April 2023 main,regular_fresh,A,80-89,147634,21.38,PN_2024_Exam1.pdf table 11
+2023,March/April 2023 main,regular_fresh,B_plus,70-79,175489,25.41,PN_2024_Exam1.pdf table 11
+2023,March/April 2023 main,regular_fresh,B,60-69,170296,24.66,PN_2024_Exam1.pdf table 11
+2023,March/April 2023 main,regular_fresh,C_plus,50-59,116819,16.92,PN_2024_Exam1.pdf table 11
+2023,March/April 2023 main,regular_fresh,C,35-49,19301,2.80,PN_2024_Exam1.pdf table 11
+2024,2024 Exam-1,regular_fresh,A_plus,90-100,39034,5.58,PN_2024_Exam1.pdf table 11
+2024,2024 Exam-1,regular_fresh,A,80-89,86619,12.39,PN_2024_Exam1.pdf table 11
+2024,2024 Exam-1,regular_fresh,B_plus,70-79,112472,16.09,PN_2024_Exam1.pdf table 11
+2024,2024 Exam-1,regular_fresh,B,60-69,139178,19.90,PN_2024_Exam1.pdf table 11
+2024,2024 Exam-1,regular_fresh,C_plus,50-59,156487,22.38,PN_2024_Exam1.pdf table 11
+2024,2024 Exam-1,regular_fresh,C,35-49,165443,23.66,PN_2024_Exam1.pdf table 11
+2025,2025 Exam-1,regular_fresh,A_plus,90-100,55066,10.53,PN_2025_Exam1.pdf table 11
+2025,2025 Exam-1,regular_fresh,A,80-89,96536,18.46,PN_2025_Exam1.pdf table 11
+2025,2025 Exam-1,regular_fresh,B_plus,70-79,114852,21.96,PN_2025_Exam1.pdf table 11
+2025,2025 Exam-1,regular_fresh,B,60-69,126541,24.19,PN_2025_Exam1.pdf table 11
+2025,2025 Exam-1,regular_fresh,C_plus,50-59,109762,20.98,PN_2025_Exam1.pdf table 11
+2025,2025 Exam-1,regular_fresh,C,35-49,20318,3.88,PN_2025_Exam1.pdf table 11
+2026,2026 Exam-1,regular_fresh,A_plus,90-100,68207,9.41,PN_2026_Exam1.pdf page 4
+2026,2026 Exam-1,regular_fresh,A,80-90,130403,17.99,PN_2026_Exam1.pdf page 4
+2026,2026 Exam-1,regular_fresh,B_plus,70-79,140963,19.45,PN_2026_Exam1.pdf page 4
+2026,2026 Exam-1,regular_fresh,B,60-69,142645,19.68,PN_2026_Exam1.pdf page 4
+2026,2026 Exam-1,regular_fresh,C_plus,50-59,128722,17.76,PN_2026_Exam1.pdf page 4
+2026,2026 Exam-1,regular_fresh,C,33-49,113854,15.71,PN_2026_Exam1.pdf page 4

@@ -1,0 +1,15 @@
+# Versions found in the analysis environment (Python 3.12)
+numpy==2.5.4
+pandas==3.0.6
+scipy==1.18.1
+statsmodels==0.15.0
+matplotlib==3.11.2
+openpyxl==3.1.5
+pillow==12.3.0
+tzdata==2026.5
+# Only for the optional PDF/OCR extraction scripts (code/02_pdf_text.py, code/03_render_pdf_pages.py, followup/code/f0*.py);
+# versions were not found in the source environment:
+pdfplumber
+pymupdf
+rapidocr_onnxruntime
+requests

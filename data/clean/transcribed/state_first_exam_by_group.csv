@@ -1,0 +1,47 @@
+year,exam,population,dimension,group,appeared,passed,pct,source
+2022,March/April 2022 main,regular_fresh,management,government,337769,297261,88.00,PN_2022_Main.pdf
+2022,March/April 2022 main,regular_fresh,management,aided,206706,181572,87.84,PN_2022_Main.pdf
+2022,March/April 2022 main,regular_fresh,management,unaided,262731,242498,92.29,PN_2022_Main.pdf
+2024,2024 Exam-1,regular_fresh,management,government,336533,243851,72.46,PN_2024_Exam1.pdf table 5
+2024,2024 Exam-1,regular_fresh,management,aided,207821,150094,72.22,PN_2024_Exam1.pdf table 5
+2024,2024 Exam-1,regular_fresh,management,unaided,258753,223720,86.46,PN_2024_Exam1.pdf table 5
+2025,2025 Exam-1,regular_fresh,management,government,321841,201790,62.70,PN_2025_Exam1.pdf table 8
+2025,2025 Exam-1,regular_fresh,management,aided,200214,118066,58.97,PN_2025_Exam1.pdf table 8
+2025,2025 Exam-1,regular_fresh,management,unaided,268835,203219,75.59,PN_2025_Exam1.pdf table 8
+2026,2026 Exam-1,regular_fresh,management,government,306341,287878,93.97,PN_2026_Exam1.pdf page 3
+2026,2026 Exam-1,regular_fresh,management,aided,190032,175670,92.44,PN_2026_Exam1.pdf page 3
+2026,2026 Exam-1,regular_fresh,management,unaided,273836,261246,95.40,PN_2026_Exam1.pdf page 3
+2023,March/April 2023 main,regular_fresh,medium,kannada,443517,379596,85.59,PN_2024_Exam1.pdf table 10
+2023,March/April 2023 main,regular_fresh,medium,english,314347,288126,91.66,PN_2024_Exam1.pdf table 10
+2023,March/April 2023 main,regular_fresh,medium,urdu,19103,14594,76.40,PN_2024_Exam1.pdf table 10
+2023,March/April 2023 main,regular_fresh,medium,marathi,9558,7975,83.44,PN_2024_Exam1.pdf table 10
+2024,2024 Exam-1,regular_fresh,medium,kannada,447157,310070,69.34,PN_2024_Exam1.pdf table 10
+2024,2024 Exam-1,regular_fresh,medium,english,326637,288389,88.29,PN_2024_Exam1.pdf table 10
+2024,2024 Exam-1,regular_fresh,medium,urdu,19279,12240,63.49,PN_2024_Exam1.pdf table 10
+2024,2024 Exam-1,regular_fresh,medium,marathi,9725,6741,69.32,PN_2024_Exam1.pdf table 10
+2025,2025 Exam-1,regular_fresh,medium,kannada,427379,246230,57.61,PN_2025_Exam1.pdf table 10
+2025,2025 Exam-1,regular_fresh,medium,english,335974,263333,78.38,PN_2025_Exam1.pdf table 10
+2025,2025 Exam-1,regular_fresh,medium,urdu,18146,8431,46.46,PN_2025_Exam1.pdf table 10
+2025,2025 Exam-1,regular_fresh,medium,marathi,9090,4906,53.97,PN_2025_Exam1.pdf table 10
+2026,2026 Exam-1,regular_fresh,medium,kannada,408937,378681,92.60,PN_2026_Exam1.pdf page 4
+2026,2026 Exam-1,regular_fresh,medium,english,335404,322515,96.16,PN_2026_Exam1.pdf page 4
+2026,2026 Exam-1,regular_fresh,medium,urdu,16950,15312,90.34,PN_2026_Exam1.pdf page 4
+2026,2026 Exam-1,regular_fresh,medium,marathi,8641,8030,92.93,PN_2026_Exam1.pdf page 4
+2023,March/April 2023 main,all_candidates,gender,boys,425968,341108,80.08,PN_2024_Exam1.pdf table 2
+2023,March/April 2023 main,all_candidates,gender,girls,409134,359511,87.87,PN_2024_Exam1.pdf table 2
+2024,2024 Exam-1,all_candidates,gender,boys,436138,287416,65.90,PN_2024_Exam1.pdf table 2
+2024,2024 Exam-1,all_candidates,gender,girls,423829,343788,81.11,PN_2024_Exam1.pdf table 2
+2024,2024 Exam-1,regular_fresh,gender,boys,397952,279214,70.16,PN_2024_Exam1.pdf table 4
+2024,2024 Exam-1,regular_fresh,gender,girls,405155,338451,83.54,PN_2024_Exam1.pdf table 4
+2025,2025 Exam-1,regular_fresh,gender,boys,390311,226637,58.07,PN_2025_Exam1.pdf table 6
+2025,2025 Exam-1,regular_fresh,gender,girls,400579,296438,74.00,PN_2025_Exam1.pdf table 6
+2026,2026 Exam-1,regular_fresh,gender,boys,377287,346872,91.94,PN_2026_Exam1.pdf page 3
+2026,2026 Exam-1,regular_fresh,gender,girls,392922,377922,96.18,PN_2026_Exam1.pdf page 3
+2023,March/April 2023 main,all_candidates,area,urban,351392,279773,79.62,PN_2023_Main.pdf page 2
+2023,March/April 2023 main,all_candidates,area,rural,483710,420846,87.00,PN_2023_Main.pdf page 2
+2024,2024 Exam-1,all_candidates,area,urban_as_printed,493900,359703,72.83,PN_2024_Exam1.pdf table 3 - urban and rural counts look swapped relative to other years; treat with caution
+2024,2024 Exam-1,all_candidates,area,rural_as_printed,366067,271501,74.17,PN_2024_Exam1.pdf table 3 - see note on urban row
+2025,2025 Exam-1,regular_fresh,area,urban,335446,224900,67.05,PN_2025_Exam1.pdf table 7
+2025,2025 Exam-1,regular_fresh,area,rural,455444,298175,65.47,PN_2025_Exam1.pdf table 7
+2026,2026 Exam-1,regular_fresh,area,urban,327929,305533,93.20,PN_2026_Exam1.pdf page 3
+2026,2026 Exam-1,regular_fresh,area,rural,442280,419261,94.80,PN_2026_Exam1.pdf page 3

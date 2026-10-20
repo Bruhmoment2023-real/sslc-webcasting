@@ -1,0 +1,148 @@
+{
+ "central_papers": 25,
+ "backward_candidates": 709,
+ "forward_candidates": 1305,
+ "snowball_screened": 2014,
+ "snowball_duplicates": 23,
+ "snowball_excluded_reasons": {
+  "offtopic_fails_inclusion_rule": 1117,
+  "offtopic_exclusion_term_in_title": 230,
+  "type_excluded": 224,
+  "no_openalex_record": 118,
+  "year_out_of_range": 77,
+  "language_not_english": 41,
+  "manual_exclude": 31,
+  "paratext_or_container_record": 11
+ },
+ "snowball_included": 142,
+ "backward_included": 29,
+ "forward_included": 113,
+ "forward_log": [
+  [
+   "W2029355615",
+   "10.1016/j.ijedudev.2004.02.005",
+   "forward citers collected: 118"
+  ],
+  [
+   "W2175003909",
+   "10.1086/524367",
+   "forward citers collected: 120"
+  ],
+  [
+   "W3096674504",
+   "10.1016/j.chbr.2020.100033",
+   "forward citers collected: 150"
+  ],
+  [
+   "W2091856951",
+   "10.3200/jece.39.2.116-125",
+   "forward citers collected: 139"
+  ],
+  [
+   "W3123468586",
+   "10.1162/00335530360698441",
+   "forward citers collected: 150"
+  ],
+  [
+   "W2602507606",
+   "10.24059/olj.v21i1.885",
+   "forward citers collected: 109"
+  ],
+  [
+   "W2201006441",
+   "10.1016/j.compedu.2015.10.002",
+   "forward citers collected: 137"
+  ],
+  [
+   "W1488477423",
+   "",
+   "forward citers collected: 0"
+  ],
+  [
+   "W2051951671",
+   "10.1007/s10869-014-9343-z",
+   "forward citers collected: 88"
+  ],
+  [
+   "W2573323278",
+   "10.1109/tmm.2017.2656064",
+   "forward citers collected: 150"
+  ],
+  [
+   "W1999802833",
+   "10.1016/j.chb.2009.01.011",
+   "forward citers collected: 33"
+  ],
+  [
+   "W1984378274",
+   "10.1016/j.econedurev.2004.04.010",
+   "forward citers collected: 75"
+  ],
+  [
+   "W2152508445",
+   "10.1111/j.1540-4609.2008.00220.x",
+   "forward citers collected: 84"
+  ],
+  [
+   "W1963456648",
+   "10.1787/hemp-v16-art8-en",
+   "forward citers collected: 45"
+  ],
+  [
+   "W2182379911",
+   "",
+   "forward citers collected: 0"
+  ],
+  [
+   "W1973711577",
+   "10.1007/s10805-014-9207-1",
+   "forward citers collected: 87"
+  ],
+  [
+   "W2403721157",
+   "10.1080/09709274.2006.11905942",
+   "forward citers collected: 3"
+  ],
+  [
+   "W2792883237",
+   "10.24059/olj.v22i1.1079",
+   "forward citers collected: 55"
+  ],
+  [
+   "W2758218410",
+   "10.1111/dsji.12140",
+   "forward citers collected: 57"
+  ],
+  [
+   "W2169091384",
+   "10.1177/1469787413514646",
+   "forward citers collected: 44"
+  ],
+  [
+   "W1580120802",
+   "10.1257/pol.20150074",
+   "forward citers collected: 29"
+  ],
+  [
+   "W2902813639",
+   "10.19173/irrodl.v19i5.3698",
+   "forward citers collected: 45"
+  ],
+  [
+   "W2045475615",
+   "10.2304/rcie.2007.2.4.313",
+   "forward citers collected: 23"
+  ],
+  [
+   "W4225005369",
+   "10.3991/ijim.v16i08.30157",
+   "forward citers collected: 26"
+  ],
+  [
+   "W3110180993",
+   "10.1016/j.socec.2020.101653",
+   "forward citers collected: 48"
+  ]
+ ],
+ "final_corpus": 1218
+}

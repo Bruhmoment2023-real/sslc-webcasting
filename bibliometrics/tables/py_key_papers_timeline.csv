@@ -1,0 +1,29 @@
+﻿oa_id,doi,first_author,year,title,source,sublit,local_citations,cited_by_count
+W3123468586,10.1162/00335530360698441,Brian Aaron Jacob,2003,Rotten Apples: An Investigation of the Prevalence and Predictors of Teacher Cheating,The Quarterly Journal of Economics,A_cheating_monitoring,32,864
+W2073116891,10.1023/b:urre.0000017531.73129.4f,Duncan Waite,2003,Corruption and Abuse of Power in Educational Administration,The Urban Review,C_corruption_education,33,96
+W2029355615,10.1016/j.ijedudev.2004.02.005,Stephen P. Heyneman,2004,Education and corruption,International Journal of Educational Development,C_corruption_education,67,237
+W1963456648,10.1787/hemp-v16-art8-en,Georgy Petrov,2004,Corruption in Higher Education,Higher Education Management,C_corruption_education,29,96
+W1984378274,10.1016/j.econedurev.2004.04.010,Christina Wikström,2004,Grade inflation and school competition: an empirical analysis based on the Swedish upper secondary schools,Economics of Education Review,B_grade_inflation_manipulation,22,149
+W632972475,,Jacques Hallak,2007,"Corrupt schools, corrupt universities : what can be done?",Bibliothèque et Archives nationales du Québec (Québec government),C_corruption_education,38,184
+W2045475615,10.2304/rcie.2007.2.4.313,Ararat L. Osipian,2007,Corruption in Higher Education: Conceptual Approaches and Measurement Techniques,Research in Comparative and International Education,C_corruption_education,27,52
+W2175003909,10.1086/524367,Stephen P. Heyneman,2007,The Cost of Corruption in Higher Education,Comparative Education Review,C_corruption_education,54,232
+W2091856951,10.3200/jece.39.2.116-125,Oskar R. Harmon,2008,Are Online Exams an Invitation to Cheat?,The Journal of Economic Education,A_cheating_monitoring,45,219
+W1998134191,10.1016/j.ijedudev.2008.08.006,Ararat L. Osipian,2008,Corruption hierarchies in higher education in the former Soviet Bloc,International Journal of Educational Development,C_corruption_education,20,93
+W4248604787,10.9743/jeo.2009.1.5,Chula G. King,2009,Online Exams and Cheating: An Empirical Analysis of Business Students’ Views,The Journal of Educators Online,A_cheating_monitoring,27,254
+W2152508445,10.1111/j.1540-4609.2008.00220.x,Kimberly Killmer Hollister,2009,Proctored Versus Unproctored Online Exams: Studying the Impact of Exam Environment on Student Performance,Decision Sciences Journal of Innovative Education,A_cheating_monitoring,36,134
+W1973711577,10.1007/s10805-014-9207-1,Alan Fask,2014,Do Online Exams Facilitate Cheating? An Experiment Designed to Separate Possible Cheating from the Effect of the Online Test Taking Environment,Journal of Academic Ethics,A_cheating_monitoring,33,138
+W2051951671,10.1007/s10869-014-9343-z,Michael N. Karim,2014,"Cheating, Reactions, and Performance in Remotely Proctored Testing: An Exploratory Experimental Study",Journal of Business and Psychology,A_cheating_monitoring,35,122
+W2039297456,10.1080/03075079.2014.927854,David W. Chapman,2014,Degrees of integrity: the threat of corruption in higher education,Studies in Higher Education,C_corruption_education,22,151
+W2201006441,10.1016/j.compedu.2015.10.002,Kenrie Hylton,2015,Utilizing webcam-based proctoring to deter misconduct in online exams,Computers & Education,A_cheating_monitoring,46,202
+W2518717403,10.1016/j.cptl.2016.08.037,Anna S. Milone,2016,The impact of proctored online exams on the educational experience,Currents in Pharmacy Teaching and Learning,A_cheating_monitoring,25,133
+W2602507606,10.24059/olj.v21i1.885,Helaine Mary Alessio,2017,Examining the Effect of Proctoring on Online Test Scores,Online Learning,A_cheating_monitoring,50,176
+W2758218410,10.1111/dsji.12140,Kelwyn A. D’Souza,2017,A Conceptual Framework for Detecting Cheating in Online and Take‐Home Exams,Decision Sciences Journal of Innovative Education,A_cheating_monitoring,21,74
+W2573323278,10.1109/tmm.2017.2656064,Yousef Atoum,2017,Automated Online Exam Proctoring,IEEE Transactions on Multimedia,A_cheating_monitoring,36,287
+W2792883237,10.24059/olj.v22i1.1079,Lee W. Daffin,2018,Comparing Student Performance on Proctored and Non-Proctored Exams in Online Psychology Courses,Online Learning,A_cheating_monitoring,30,99
+W3096674504,10.1016/j.chbr.2020.100033,Seife Dendir,2020,Cheating in online courses: Evidence from online proctoring,Computers in Human Behavior Reports,A_cheating_monitoring,46,256
+W3088927960,10.1016/j.compedu.2020.104024,Kerryn A Butler-Henderson,2020,A systematic review of online examinations: A pedagogical innovation for scalable authentication and integrity,Computers & Education,A_cheating_monitoring,28,250
+W3091616849,10.1016/j.jebo.2020.12.004,Eren Bilen,2020,Online cheating amid COVID-19,Journal of Economic Behavior & Organization,A_cheating_monitoring,26,236
+W3110180993,10.1016/j.socec.2020.101653,Jose J. Vazquez,2020,Can we stay one step ahead of cheaters? A field experiment in proctoring online open book exams,Journal of Behavioral and Experimental Economics,A_cheating_monitoring,20,69
+W3116382667,10.5944/openpraxis.12.4.1113,Mohammed Juned Hussein,2020,An Evaluation of Online Proctoring Tools,Open Praxis,A_cheating_monitoring,23,130
+W3173651060,10.1007/s10639-021-10597-x,Aditya Nigam,2021,"A Systematic Review on AI-based Proctoring Systems: Past, Present and Future",Education and Information Technologies,A_cheating_monitoring,25,262
+W4220695000,10.1007/s10639-022-10927-7,Fakhroddin Noorbehbahani,2022,A systematic review of research on cheating in online exams from 2010 to 2021,Education and Information Technologies,A_cheating_monitoring,21,235

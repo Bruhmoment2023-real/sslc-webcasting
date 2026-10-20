@@ -1,0 +1,345 @@
+year,exam,scope,dist_code,dist_name,total_schools,govt,aided,unaided,total,source_file,sheet
+2017,April 2017 main,main_exam,AN,BENGALURU NORTH,882.0,1.0,1.0,49.0,51.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,AS,BENGALURU SOUTH,1119.0,2.0,1.0,59.0,62.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,BA,RAMNAGARA,275.0,1.0,15.0,17.0,33.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,BB,BENGALURU RURAL,222.0,2.0,5.0,17.0,24.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,CA,CHIKKABALLAPUR,275.0,1.0,1.0,23.0,25.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,CC,KOLAR,340.0,1.0,9.0,31.0,41.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,DA,MADHUGIRI,266.0,0.0,8.0,8.0,16.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,DD,TUMAKURU,459.0,0.0,3.0,9.0,12.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,EA,CHAMARAJANAGAR,203.0,0.0,2.0,12.0,14.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,EE,MYSURU,635.0,2.0,7.0,16.0,25.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,FF,MANDYA,444.0,2.0,9.0,13.0,24.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,GA,UDUPI,259.0,1.0,2.0,13.0,16.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,GG,MANGALURU,500.0,1.0,9.0,43.0,53.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,HH,KODAGU,158.0,0.0,3.0,13.0,16.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,IA,DAVANAGERE,482.0,2.0,10.0,9.0,21.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,II,CHITRADURGA,425.0,0.0,3.0,12.0,15.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,JJ,CHIKKAMAGALURU,313.0,2.0,7.0,21.0,30.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,KK,SHIVAMOGGA,448.0,3.0,16.0,25.0,44.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,LL,HASSAN,502.0,0.0,5.0,12.0,17.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,MA,HAVERI,383.0,1.0,10.0,12.0,23.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,MB,GADAG,283.0,0.0,14.0,4.0,18.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,MM,DHARWAD,395.0,5.0,13.0,4.0,22.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,NA,CHIKODI,520.0,7.0,25.0,44.0,76.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,NN,BELAGAVI,455.0,3.0,6.0,5.0,14.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,OA,BAGALKOTE,427.0,0.0,8.0,12.0,20.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,OO,VIJAYAPURA,507.0,0.0,8.0,16.0,24.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,PA,SIRSI,170.0,1.0,9.0,8.0,18.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,PP,UTTARA KANNADA,183.0,1.0,4.0,8.0,13.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,QA,YADGIR,214.0,0.0,6.0,9.0,15.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,QQ,KALABURAGI,730.0,1.0,11.0,16.0,28.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,RA,KOPPAL,279.0,0.0,12.0,15.0,27.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,RR,RAICHUR,399.0,0.0,10.0,12.0,22.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,SS,BIDAR,495.0,1.0,2.0,8.0,11.0,SSLCAPR2017.xlsx,PRO_12
+2017,April 2017 main,main_exam,TT,BALLARI,507.0,3.0,15.0,37.0,55.0,SSLCAPR2017.xlsx,PRO_12
+2018,April 2018 main,main_exam,AN,BENGALURU NORTH,892.0,2.0,0.0,52.0,54.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,AS,BENGALURU SOUTH,1120.0,1.0,1.0,57.0,59.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,BA,RAMNAGARA,279.0,3.0,10.0,18.0,31.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,BB,BENGALURU RURAL,227.0,2.0,6.0,21.0,29.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,CA,CHIKKABALLAPUR,278.0,0.0,2.0,30.0,32.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,CC,KOLAR,342.0,3.0,13.0,53.0,69.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,DA,MADHUGIRI,263.0,2.0,16.0,23.0,41.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,DD,TUMAKURU,457.0,3.0,24.0,25.0,52.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,EA,CHAMARAJANAGAR,204.0,1.0,3.0,6.0,10.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,EE,MYSURU,638.0,9.0,20.0,39.0,68.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,FF,MANDYA,443.0,4.0,10.0,14.0,28.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,GA,UDUPI,261.0,2.0,10.0,26.0,38.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,GG,MANGALURU,504.0,3.0,10.0,53.0,66.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,HH,KODAGU,158.0,0.0,4.0,15.0,19.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,IA,DAVANAGERE,486.0,7.0,18.0,22.0,47.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,II,CHITRADURGA,430.0,5.0,11.0,28.0,44.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,JJ,CHIKKAMAGALURU,314.0,0.0,8.0,22.0,30.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,KK,SHIVAMOGGA,454.0,3.0,17.0,26.0,46.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,LL,HASSAN,507.0,2.0,40.0,28.0,70.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,MA,HAVERI,385.0,1.0,17.0,17.0,35.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,MB,GADAG,283.0,1.0,6.0,10.0,17.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,MM,DHARWAD,397.0,6.0,17.0,11.0,34.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,NA,CHIKODI,531.0,8.0,36.0,54.0,98.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,NN,BELAGAVI,461.0,15.0,16.0,17.0,48.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,OA,BAGALKOTE,431.0,3.0,10.0,9.0,22.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,OO,VIJAYAPURA,523.0,2.0,17.0,30.0,49.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,PA,SIRSI,170.0,3.0,6.0,6.0,15.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,PP,UTTARA KANNADA,185.0,4.0,9.0,13.0,26.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,QA,YADGIR,217.0,0.0,0.0,2.0,2.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,QQ,KALABURAGI,729.0,2.0,6.0,17.0,25.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,RA,KOPPAL,282.0,0.0,19.0,19.0,38.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,RR,RAICHUR,405.0,0.0,3.0,8.0,11.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,SS,BIDAR,502.0,0.0,4.0,15.0,19.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2018,April 2018 main,main_exam,TT,BALLARI,512.0,5.0,25.0,40.0,70.0,PROFORMA_APRIL_2018.xlsx,PRO-12
+2019,April 2019 main,main_exam,AN,BENGALURU NORTH,896.0,0.0,1.0,66.0,67.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,AS,BENGALURU SOUTH,1147.0,1.0,1.0,42.0,44.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,BA,RAMNAGARA,282.0,8.0,35.0,29.0,72.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,BB,BENGALURU RURAL,234.0,5.0,11.0,49.0,65.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,CA,CHIKKABALLAPUR,283.0,1.0,8.0,34.0,43.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,CC,KOLAR,355.0,3.0,26.0,52.0,81.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,DA,MADHUGIRI,263.0,5.0,21.0,26.0,52.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,DD,TUMKUR,458.0,2.0,20.0,24.0,46.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,EA,CHAMARAJANAGAR,206.0,2.0,14.0,9.0,25.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,EE,MYSORE,645.0,7.0,29.0,34.0,70.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,FF,MANDYA,449.0,6.0,36.0,32.0,74.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,GA,UDUPI,263.0,5.0,11.0,20.0,36.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,GG,MANGALURU,509.0,5.0,17.0,62.0,84.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,HH,KODAGU,157.0,3.0,7.0,10.0,20.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,IA,DAVANAGERE,486.0,7.0,29.0,24.0,60.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,II,CHITRADURGA,431.0,9.0,13.0,44.0,66.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,JJ,CHIKKAMAGALURU,313.0,2.0,26.0,33.0,61.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,KK,SHIVAMOGGA,456.0,2.0,14.0,26.0,42.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,LL,HASSAN,512.0,16.0,86.0,45.0,147.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,MA,HAVERI,389.0,4.0,19.0,13.0,36.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,MB,GADAG,286.0,2.0,12.0,4.0,18.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,MM,DHARWAD,399.0,4.0,10.0,7.0,21.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,NA,CHIKKODI,538.0,3.0,31.0,41.0,75.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,NN,BELAGAVI,465.0,6.0,11.0,16.0,33.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,OA,BAGALKOTE,434.0,4.0,11.0,14.0,29.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,OO,VIJAYAPURA,543.0,3.0,8.0,24.0,35.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,PA,SIRSI,171.0,3.0,10.0,7.0,20.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,PP,UTTARA KANNADA,185.0,6.0,11.0,8.0,25.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,QA,YADGIR,220.0,0.0,0.0,0.0,0.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,QQ,KALABURGI,737.0,1.0,14.0,22.0,37.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,RA,KOPPAL,293.0,1.0,20.0,15.0,36.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,RR,RAICHUR,407.0,1.0,6.0,6.0,13.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,SS,BIDAR,505.0,0.0,7.0,21.0,28.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2019,April 2019 main,main_exam,TT,BELLARI,528.0,3.0,18.0,44.0,65.0,PROFORMA_APRIL_2019.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,AN,BENGALURU NORTH,915.0,0.0,0.0,75.0,75.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,AS,BENGALURU SOUTH,1186.0,1.0,2.0,44.0,47.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,BA,RAMNAGARA,291.0,30.0,14.0,28.0,72.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,BB,BENGALURU RURAL,239.0,17.0,4.0,57.0,78.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,CA,CHIKKABALLAPUR,285.0,28.0,3.0,71.0,102.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,CC,KOLAR,354.0,26.0,12.0,75.0,113.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,DA,MADHUGIRI,266.0,38.0,12.0,28.0,78.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,DD,TUMKUR,458.0,10.0,3.0,18.0,31.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,EA,CHAMARAJANAGAR,208.0,17.0,6.0,18.0,41.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,EE,MYSORE,656.0,11.0,5.0,34.0,50.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,FF,MANDYA,449.0,55.0,9.0,52.0,116.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,GA,UDUPI,261.0,4.0,2.0,20.0,26.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,GG,MANGALURU,510.0,7.0,0.0,30.0,37.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,HH,KODAGU,164.0,4.0,0.0,21.0,25.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,IA,DAVANAGERE,435.0,14.0,7.0,20.0,41.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,II,CHITRADURGA,441.0,21.0,18.0,47.0,86.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,JJ,CHIKKAMAGALURU,312.0,14.0,2.0,12.0,28.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,KK,SHIVAMOGGA,462.0,17.0,2.0,23.0,42.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,LL,HASSAN,519.0,55.0,6.0,45.0,106.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,MA,HAVERI,396.0,3.0,1.0,2.0,6.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,MB,GADAG,284.0,5.0,0.0,3.0,8.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,MM,DHARWAD,407.0,4.0,3.0,7.0,14.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,NA,CHIKKODI,547.0,12.0,0.0,18.0,30.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,NN,BELAGAVI,470.0,6.0,4.0,2.0,12.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,OA,BAGALKOTE,440.0,2.0,2.0,8.0,12.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,OO,VIJAYAPURA,559.0,9.0,3.0,14.0,26.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,PA,SIRSI,173.0,9.0,1.0,8.0,18.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,PP,UTTARA KANNADA,186.0,4.0,4.0,9.0,17.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,QA,YADGIR,225.0,2.0,0.0,2.0,4.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,QQ,KALABURGI,754.0,21.0,2.0,18.0,41.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,RA,KOPPAL,298.0,10.0,0.0,7.0,17.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,RR,RAICHUR,415.0,5.0,0.0,9.0,14.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,SS,BIDAR,523.0,3.0,2.0,21.0,26.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2020,June/July 2020 main (COVID-delayed),main_exam,TT,BELLARI,608.0,37.0,10.0,64.0,111.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,AN,BENGALURU NORTH,943.0,62.0,113.0,768.0,943.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,AS,BENGALURU SOUTH,1184.0,90.0,150.0,944.0,1184.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,BA,RAMNAGARA,289.0,125.0,66.0,98.0,289.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,BB,BENGALURU RURAL,254.0,69.0,45.0,140.0,254.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,CA,CHIKKABALLAPUR,291.0,124.0,36.0,131.0,291.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,CC,KOLAR,362.0,141.0,56.0,165.0,362.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,DA,MADHUGIRI,269.0,113.0,105.0,51.0,269.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,DD,TUMKUR,459.0,146.0,184.0,129.0,459.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,EA,CHAMARAJANAGAR,212.0,101.0,50.0,61.0,212.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,EE,MYSORE,661.0,259.0,125.0,277.0,661.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,FF,MANDYA,454.0,239.0,91.0,124.0,454.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,GA,UDUPI,259.0,110.0,68.0,81.0,259.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,GG,MANGALURU,511.0,180.0,106.0,225.0,511.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,HH,KODAGU,167.0,55.0,44.0,68.0,167.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,IA,DAVANAGERE,444.0,149.0,154.0,141.0,444.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,II,CHITRADURGA,448.0,135.0,176.0,137.0,448.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,JJ,CHIKKAMAGALURU,310.0,135.0,104.0,71.0,310.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,KK,SHIVAMOGGA,461.0,180.0,114.0,167.0,461.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,LL,HASSAN,529.0,268.0,127.0,134.0,529.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,MA,HAVERI,405.0,162.0,148.0,95.0,405.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,MB,GADAG,289.0,125.0,92.0,72.0,289.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,MM,DHARWAD,413.0,119.0,141.0,153.0,413.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,NA,CHIKKODI,556.0,207.0,148.0,201.0,556.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,NN,BELAGAVI,478.0,143.0,187.0,148.0,478.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,OA,BAGALKOTE,452.0,204.0,93.0,155.0,452.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,OO,VIJAYAPURA,573.0,170.0,168.0,235.0,573.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,PA,SIRSI,175.0,82.0,57.0,36.0,175.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,PP,UTTARA KANNADA,187.0,53.0,89.0,45.0,187.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,QA,YADGIR,231.0,138.0,11.0,82.0,231.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,QQ,KALABURGI,775.0,327.0,72.0,376.0,775.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,RA,KOPPAL,305.0,186.0,26.0,93.0,305.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,RR,RAICHUR,425.0,234.0,33.0,158.0,425.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,SS,BIDAR,536.0,187.0,121.0,228.0,536.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,TT,BELLARI,620.0,271.0,98.0,251.0,620.0,PROFORMA_JULY_2021.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,AN,BENGALURU NORTH,941.0,1.0,5.0,165.0,171.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,AS,BENGALURU SOUTH,1161.0,1.0,6.0,134.0,141.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,BA,RAMNAGARA,298.0,70.0,21.0,57.0,148.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,BB,BENGALURU RURAL,268.0,24.0,9.0,88.0,121.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,CA,CHIKKABALLAPUR,302.0,72.0,9.0,83.0,164.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,CC,KOLAR,378.0,65.0,17.0,110.0,192.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,DA,MADHUGIRI,282.0,62.0,32.0,36.0,130.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,DD,TUMKUR,473.0,58.0,23.0,54.0,135.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,EA,CHAMARAJANAGAR,219.0,40.0,13.0,30.0,83.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,EE,MYSORE,671.0,80.0,21.0,91.0,192.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,FF,MANDYA,470.0,111.0,31.0,87.0,229.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,GA,UDUPI,266.0,16.0,2.0,32.0,50.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,GG,MANGALURU,523.0,31.0,5.0,64.0,100.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,HH,KODAGU,169.0,18.0,6.0,41.0,65.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,IA,DAVANAGERE,462.0,52.0,30.0,61.0,143.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,II,CHITRADURGA,472.0,78.0,60.0,95.0,233.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,JJ,CHIKKAMAGALURU,327.0,49.0,13.0,33.0,95.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,KK,SHIVAMOGGA,483.0,45.0,6.0,57.0,108.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,LL,HASSAN,541.0,151.0,39.0,99.0,289.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,MA,HAVERI,428.0,41.0,12.0,32.0,85.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,MB,GADAG,296.0,25.0,8.0,29.0,62.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,MM,DHARWAD,426.0,19.0,18.0,31.0,68.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,NA,CHIKKODI,574.0,54.0,12.0,87.0,153.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,NN,BELAGAVI,493.0,32.0,20.0,34.0,86.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,OA,BAGALKOTE,471.0,34.0,10.0,36.0,80.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,OO,VIJAYAPURA,591.0,34.0,9.0,73.0,116.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,PA,SIRSI,182.0,17.0,2.0,14.0,33.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,PP,UTTARA KANNADA,194.0,17.0,12.0,20.0,49.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,QA,YADGIR,244.0,9.0,0.0,9.0,18.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,QQ,KALABURGI,805.0,55.0,4.0,88.0,147.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,RA,KOPPAL,319.0,50.0,2.0,32.0,84.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,RR,RAICHUR,452.0,29.0,2.0,40.0,71.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,SS,BIDAR,532.0,36.0,16.0,55.0,107.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2022,March/April 2022 main,main_exam,TT,BELLARI,624.0,52.0,7.0,77.0,136.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,AN,BENGALURU NORTH,940.0,1.0,1.0,120.0,122.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,AS,BENGALURU SOUTH,1177.0,2.0,2.0,90.0,94.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,BA,RAMANAGARA,298.0,49.0,15.0,46.0,110.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,BB,BENGALURU RURAL,273.0,40.0,19.0,112.0,171.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,CA,CHIKKABALLAPURA,308.0,63.0,15.0,97.0,175.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,CC,KOLAR,381.0,49.0,17.0,98.0,164.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,DA,MADHUGIRI,280.0,60.0,30.0,24.0,114.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,DD,TUMAKURU,473.0,47.0,20.0,42.0,109.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,EA,CHAMARAJANAGARA,219.0,49.0,12.0,26.0,87.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,EE,MYSURU,680.0,52.0,14.0,84.0,150.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,FF,MANDYA,475.0,146.0,40.0,99.0,285.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,GA,UDUPI,270.0,14.0,7.0,26.0,47.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,GG,DAKSHINA KANNADA,524.0,37.0,8.0,85.0,130.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,HH,KODAGU,170.0,24.0,7.0,38.0,69.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,IA,DAVANAGERE,464.0,51.0,28.0,52.0,131.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,II,CHITRADURGA,475.0,79.0,60.0,94.0,233.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,JJ,CHIKKAMAGALURU,325.0,53.0,12.0,37.0,102.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,KK,SHIVAMOGGA,485.0,34.0,5.0,32.0,71.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,LL,HASSAN,542.0,161.0,43.0,104.0,308.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,MA,HAVERI,437.0,46.0,12.0,34.0,92.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,MB,GADAG,301.0,25.0,2.0,17.0,44.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,MM,DHARWAD,427.0,19.0,12.0,21.0,52.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,NA,CHIKKODI,586.0,51.0,8.0,73.0,132.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,NN,BELAGAVI,495.0,29.0,21.0,25.0,75.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,OA,BAGALAKOTE,481.0,35.0,14.0,27.0,76.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,OO,VIJAYAPURA,608.0,48.0,18.0,90.0,156.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,PA,SIRSI,183.0,12.0,4.0,11.0,27.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,PP,UTTARA KANNADA,197.0,18.0,11.0,18.0,47.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,QA,YADAGIRI,249.0,10.0,0.0,11.0,21.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,QQ,KALABURAGI,809.0,45.0,3.0,48.0,96.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,RA,KOPPALA,321.0,43.0,1.0,31.0,75.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,RR,RAICHURU,464.0,49.0,2.0,25.0,76.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,SS,BIDAR,548.0,11.0,7.0,25.0,43.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,TA,VIJAYANAGARA,326.0,45.0,11.0,30.0,86.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2023,March/April 2023 main,main_exam,TT,BALLARI,302.0,22.0,2.0,36.0,60.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,AN,BENGALURU NORTH,932.0,5.0,13.0,225.0,243.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,AS,BENGALURU SOUTH,1177.0,15.0,16.0,310.0,341.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,BA,RAMANAGARA,300.0,22.0,1.0,22.0,45.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,BB,BENGALURU RURAL,274.0,20.0,2.0,73.0,95.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,CA,CHIKKABALLAPURA,307.0,18.0,0.0,50.0,68.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,CC,KOLAR,384.0,26.0,4.0,71.0,101.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,DA,MADHUGIRI,282.0,21.0,1.0,24.0,46.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,DD,TUMAKURU,470.0,40.0,6.0,45.0,91.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,EA,CHAMARAJANAGARA,218.0,13.0,0.0,12.0,25.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,EE,MYSURU,679.0,58.0,14.0,122.0,194.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,FF,MANDYA,477.0,46.0,3.0,57.0,106.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,GA,UDUPI,272.0,62.0,37.0,72.0,171.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,GG,DAKSHINA KANNADA,527.0,100.0,44.0,174.0,318.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,HH,KODAGU,171.0,35.0,11.0,46.0,92.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,IA,DAVANAGERE,472.0,23.0,2.0,50.0,75.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,II,CHITRADURGA,475.0,32.0,5.0,45.0,82.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,JJ,CHIKKAMAGALURU,326.0,69.0,14.0,55.0,138.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,KK,SHIVAMOGGA,481.0,100.0,39.0,101.0,240.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,LL,HASSAN,537.0,100.0,13.0,93.0,206.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,MA,HAVERI,451.0,43.0,6.0,42.0,91.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,MB,GADAG,304.0,31.0,7.0,28.0,66.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,MM,DHARWAD,439.0,21.0,12.0,25.0,58.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,NA,CHIKKODI,600.0,37.0,7.0,37.0,81.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,NN,BELAGAVI,508.0,17.0,10.0,25.0,52.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,OA,BAGALAKOTE,485.0,44.0,10.0,40.0,94.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,OO,VIJAYAPURA,634.0,32.0,11.0,86.0,129.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,PA,SIRSI,184.0,33.0,19.0,18.0,70.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,PP,UTTARA KANNADA,200.0,27.0,16.0,31.0,74.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,QA,YADAGIRI,268.0,7.0,0.0,7.0,14.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,QQ,KALABURAGI,822.0,11.0,2.0,30.0,43.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,RA,KOPPALA,333.0,26.0,0.0,18.0,44.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,RR,RAICHURU,468.0,42.0,3.0,26.0,71.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,SS,BIDAR,554.0,16.0,3.0,32.0,51.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,TA,VIJAYANAGARA,333.0,26.0,7.0,24.0,57.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,TT,BALLARI,311.0,21.0,2.0,36.0,59.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,AN,BENGALURU NORTH,943.0,3.0,4.0,126.0,133.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,AS,BENGALURU SOUTH,1199.0,3.0,4.0,126.0,133.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,BA,RAMANAGARA,303.0,19.0,5.0,24.0,48.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,BB,BENGALURU RURAL,273.0,13.0,2.0,73.0,88.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,CA,CHIKKABALLAPURA,309.0,10.0,0.0,29.0,39.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,CC,KOLAR,394.0,32.0,6.0,67.0,105.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,DA,MADHUGIRI,264.0,7.0,0.0,10.0,17.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,DD,TUMAKURU,452.0,19.0,0.0,14.0,33.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,EA,CHAMARAJANAGARA,221.0,10.0,1.0,17.0,28.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,EE,MYSURU,688.0,19.0,4.0,56.0,79.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,FF,MANDYA,480.0,29.0,5.0,34.0,68.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,GA,UDUPI,272.0,28.0,17.0,56.0,101.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,GG,DAKSHINA KANNADA,521.0,73.0,23.0,134.0,230.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,HH,KODAGU,167.0,17.0,3.0,29.0,49.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,IA,DAVANAGERE,472.0,13.0,0.0,27.0,40.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,II,CHITRADURGA,483.0,8.0,0.0,14.0,22.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,JJ,CHIKKAMAGALURU,327.0,40.0,3.0,41.0,84.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,KK,SHIVAMOGGA,477.0,63.0,12.0,62.0,137.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,LL,HASSAN,536.0,75.0,5.0,73.0,153.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,MA,HAVERI,459.0,26.0,5.0,29.0,60.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,MB,GADAG,306.0,20.0,3.0,14.0,37.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,MM,DHARWAD,446.0,16.0,6.0,23.0,45.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,NA,CHIKKODI,601.0,30.0,3.0,31.0,64.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,NN,BELAGAVI,517.0,18.0,4.0,21.0,43.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,OA,BAGALAKOTE,487.0,24.0,11.0,31.0,66.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,OO,VIJAYAPURA,670.0,19.0,2.0,47.0,68.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,PA,SIRSI,184.0,21.0,9.0,12.0,42.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,PP,UTTARA KANNADA,198.0,21.0,2.0,27.0,50.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,QA,YADAGIRI,277.0,2.0,0.0,5.0,7.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,QQ,KALABURAGI,833.0,8.0,0.0,7.0,15.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,RA,KOPPALA,342.0,25.0,1.0,18.0,44.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,RR,RAICHURU,488.0,18.0,1.0,26.0,45.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,SS,BIDAR,568.0,3.0,0.0,16.0,19.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,TA,VIJAYANAGARA,339.0,23.0,4.0,26.0,53.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,TT,BALLARI,320.0,11.0,0.0,27.0,38.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,AN,BENGALURU NORTH,944.0,39.0,65.0,616.0,720.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,AS,BENGALURU SOUTH,1197.0,37.0,49.0,580.0,666.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,BA,RAMANAGARA,301.0,100.0,39.0,86.0,225.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,BB,BENGALURU RURAL,278.0,59.0,29.0,143.0,231.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,CA,CHIKKABALLAPURA,306.0,101.0,26.0,109.0,236.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,CC,KOLAR,403.0,118.0,34.0,158.0,310.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,DA,MADHUGIRI,268.0,76.0,26.0,49.0,151.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,DD,TUMAKURU,457.0,105.0,64.0,83.0,252.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,EA,CHAMARAJANAGARA,226.0,75.0,33.0,59.0,167.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,EE,MYSURU,703.0,158.0,65.0,249.0,472.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,FF,MANDYA,475.0,211.0,66.0,121.0,398.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,GA,UDUPI,274.0,94.0,57.0,90.0,241.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,GG,DAKSHINA KANNADA,524.0,152.0,77.0,210.0,439.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,HH,KODAGU,168.0,47.0,19.0,64.0,130.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,IA,DAVANAGERE,476.0,116.0,97.0,111.0,324.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,II,CHITRADURGA,483.0,91.0,47.0,90.0,228.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,JJ,CHIKKAMAGALURU,325.0,120.0,46.0,70.0,236.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,KK,SHIVAMOGGA,488.0,163.0,81.0,133.0,377.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,LL,HASSAN,536.0,253.0,71.0,136.0,460.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,MA,HAVERI,471.0,166.0,107.0,100.0,373.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,MB,GADAG,313.0,98.0,54.0,58.0,210.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,MM,DHARWAD,450.0,86.0,86.0,117.0,289.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,NA,CHIKKODI,620.0,132.0,56.0,162.0,350.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,NN,BELAGAVI,525.0,101.0,87.0,107.0,295.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,OA,BAGALAKOTE,496.0,150.0,73.0,108.0,331.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,OO,VIJAYAPURA,709.0,115.0,79.0,226.0,420.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,PA,SIRSI,182.0,75.0,37.0,30.0,142.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,PP,UTTARA KANNADA,199.0,53.0,49.0,53.0,155.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,QA,YADAGIRI,290.0,95.0,7.0,67.0,169.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,QQ,KALABURAGI,860.0,158.0,35.0,142.0,335.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,RA,KOPPALA,362.0,114.0,13.0,75.0,202.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,RR,RAICHURU,492.0,148.0,19.0,115.0,282.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,SS,BIDAR,575.0,103.0,41.0,149.0,293.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,TA,VIJAYANAGARA,342.0,105.0,39.0,87.0,231.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,TT,BALLARI,326.0,76.0,10.0,90.0,176.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-12

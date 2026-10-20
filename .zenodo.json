@@ -1,0 +1,21 @@
+{
+  "title": "Pass rates after exam webcasting: a descriptive district analysis of Karnataka's SSLC examination, 2014-2026",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Solano Paul, Sean",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "license": "MIT",
+  "description": "Code, derived district-level data, results and documentation for a descriptive analysis of pass rates in Karnataka's Class 10 board examination (SSLC) across the 34 educational districts, 2014-2026, around the March 2024 introduction of live webcasting of every examination centre. The design is descriptive: the data cannot separate the effect of webcasting from other simultaneous changes (grace marks, a three-exam structure).",
+  "keywords": [
+    "examinations",
+    "exam supervision",
+    "cheating",
+    "grace marks",
+    "district rankings",
+    "Karnataka",
+    "India"
+  ]
+}

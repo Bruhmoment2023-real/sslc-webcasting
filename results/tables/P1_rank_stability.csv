@@ -1,0 +1,18 @@
+series,pair,spearman,pearson,mean_abs_rank_move,sd_change
+S1 all candidates,2014-2015,0.602,0.51,6.765,5.889
+S1 all candidates,2015-2016,0.639,0.601,6.412,6.461
+S1 all candidates,2016-2017,0.564,0.482,7.412,6.978
+S1 all candidates,2017-2018,0.629,0.563,6.294,8.56
+S1 all candidates,2018-2019,0.681,0.829,6.118,5.797
+S1 all candidates,2019-2020,0.657,0.684,6.059,7.905
+S1 all candidates,2020-2022,0.744,0.751,5.529,7.594
+S1 all candidates,2022-2023,0.917,0.914,3.235,2.721
+S1 all candidates,2023-2024,0.231,0.367,9.882,10.4
+S2 regular freshers,2015-2017,0.511,0.427,7.176,6.008
+S2 regular freshers,2017-2018,0.448,0.38,7.588,9.109
+S2 regular freshers,2018-2019,0.612,0.775,6.941,6.183
+S2 regular freshers,2019-2020,0.705,0.682,6.0,7.411
+S2 regular freshers,2020-2022,0.702,0.68,5.882,7.884
+S2 regular freshers,2022-2023,0.896,0.886,3.235,2.579
+S2 regular freshers,2023-2025,0.152,0.244,10.353,11.355
+S2 regular freshers,2025-2026,0.804,0.769,4.471,9.435

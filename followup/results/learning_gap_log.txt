@@ -1,0 +1,33 @@
+NAS 2021 Class 10 district means (34 districts): mean5 mean=37.09 sd=2.84 min=32.4 max=41.8
+typical NAS se per subject (median) = 0.43
+
+=== L0 correlation of NAS (mean5) with pass rate
+S1 2019: n=34 Spearman=0.135 Pearson=0.237
+S1 2022: n=34 Spearman=-0.056 Pearson=0.019
+S1 2023: n=34 Spearman=0.102 Pearson=0.142
+S1 2024: n=34 Spearman=0.399 Pearson=0.418
+S2 2025: n=34 Spearman=0.441 Pearson=0.468
+S2 2023: n=34 Spearman=0.167 Pearson=0.167
+
+=== L1 primary: change 2023->24 (S1) on Gap_2023 = z(pass 2023) - z(NAS)
+L1 d2324 ~ gap2023: n=34 gap=-3.55 (se 1.10, p=0.001); R2=0.20; Spearman(y, first x)=-0.37
+
+=== L2 other baselines
+L2a d2324 ~ gap2022: n=34 gap=-3.49 (se 1.16, p=0.003); R2=0.22; Spearman(y, first x)=-0.42
+L2b d2324 ~ gap(mean 2022-23): n=34 gap=-3.56 (se 1.12, p=0.002); R2=0.21; Spearman(y, first x)=-0.40
+L2c d2324 ~ gap2023 using Maths+Science NAS: n=34 gap=-1.46 (se 1.44, p=0.312); R2=0.03; Spearman(y, first x)=-0.16
+
+=== L3 pre-COVID baseline
+L3 d2324 ~ gap2019: n=34 gap=-1.97 (se 1.55, p=0.203); R2=0.06; Spearman(y, first x)=-0.25
+
+=== L4 two-variable
+L4 d2324 ~ z(pass2023) + z(NAS): n=34 z_pass2023=-3.03 (se 1.54, p=0.049); z_NAS=4.06 (se 1.91, p=0.034); R2=0.21; Spearman(y, first x)=-0.27
+
+=== L5 regular freshers 2023->2025
+L5 S2 d2325 ~ gap2023(S2): n=34 gap=-4.24 (se 1.08, p=0.000); R2=0.23; Spearman(y, first x)=-0.45
+L5b S2 d2325 ~ z(pass S2 2023) + z(NAS): n=34 z_pass=-3.47 (se 1.21, p=0.004); z_NAS=5.01 (se 1.99, p=0.012); R2=0.24; Spearman(y, first x)=-0.31
+
+=== L6 placebos
+L6a d2223 ~ gap2022: n=34 gap=-0.02 (se 0.38, p=0.957); R2=0.00; Spearman(y, first x)=-0.07
+L6b d1819 ~ gap2019: n=34 gap=1.18 (se 0.70, p=0.092); R2=0.06; Spearman(y, first x)=0.27
+L6c d2324 ~ NAS only: n=34 z_NAS=3.63 (se 1.87, p=0.052); R2=0.12; Spearman(y, first x)=0.33

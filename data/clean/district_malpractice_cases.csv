@@ -1,0 +1,70 @@
+year,exam,scope,dist_code,dist_name,govt_girl,govt_boy,aided_girl,aided_boy,unaided_girl,unaided_boy,total,source_file,sheet
+2017,April 2017 main,main_exam,CA,CHIKKABALLAPUR,0.0,0.0,1.0,0.0,0.0,0.0,1.0,SSLCAPR2017.xlsx,PRO_10
+2017,April 2017 main,main_exam,EE,MYSURU,0.0,1.0,0.0,0.0,0.0,1.0,2.0,SSLCAPR2017.xlsx,PRO_10
+2017,April 2017 main,main_exam,KK,SHIVAMOGGA,0.0,0.0,0.0,1.0,0.0,0.0,1.0,SSLCAPR2017.xlsx,PRO_10
+2017,April 2017 main,main_exam,OA,BAGALKOTE,0.0,1.0,0.0,0.0,0.0,0.0,1.0,SSLCAPR2017.xlsx,PRO_10
+2017,April 2017 main,main_exam,QQ,KALABURAGI,2.0,3.0,0.0,0.0,1.0,0.0,6.0,SSLCAPR2017.xlsx,PRO_10
+2017,April 2017 main,main_exam,SS,BIDAR,0.0,0.0,0.0,0.0,0.0,1.0,1.0,SSLCAPR2017.xlsx,PRO_10
+2017,April 2017 main,main_exam,TT,BALLARI,0.0,3.0,0.0,0.0,0.0,0.0,3.0,SSLCAPR2017.xlsx,PRO_10
+2018,April 2018 main,main_exam,FF,MANDYA,0.0,1.0,0.0,1.0,0.0,1.0,3.0,PROFORMA_APRIL_2018.xlsx,PRO-10
+2018,April 2018 main,main_exam,IA,DAVANAGERE,1.0,0.0,0.0,0.0,0.0,0.0,1.0,PROFORMA_APRIL_2018.xlsx,PRO-10
+2018,April 2018 main,main_exam,MM,DHARWAD,0.0,0.0,0.0,2.0,0.0,6.0,8.0,PROFORMA_APRIL_2018.xlsx,PRO-10
+2018,April 2018 main,main_exam,NN,BELAGAVI,0.0,1.0,0.0,0.0,0.0,0.0,1.0,PROFORMA_APRIL_2018.xlsx,PRO-10
+2018,April 2018 main,main_exam,OA,BAGALKOTE,0.0,1.0,0.0,0.0,0.0,0.0,1.0,PROFORMA_APRIL_2018.xlsx,PRO-10
+2018,April 2018 main,main_exam,OO,VIJAYAPURA,0.0,0.0,0.0,2.0,1.0,0.0,3.0,PROFORMA_APRIL_2018.xlsx,PRO-10
+2018,April 2018 main,main_exam,QA,YADGIR,1.0,20.0,1.0,1.0,3.0,6.0,32.0,PROFORMA_APRIL_2018.xlsx,PRO-10
+2018,April 2018 main,main_exam,QQ,KALABURAGI,1.0,10.0,0.0,2.0,1.0,4.0,18.0,PROFORMA_APRIL_2018.xlsx,PRO-10
+2018,April 2018 main,main_exam,RR,RAICHUR,0.0,1.0,0.0,0.0,0.0,0.0,1.0,PROFORMA_APRIL_2018.xlsx,PRO-10
+2018,April 2018 main,main_exam,SS,BIDAR,0.0,1.0,0.0,0.0,0.0,1.0,2.0,PROFORMA_APRIL_2018.xlsx,PRO-10
+2019,April 2019 main,main_exam,AS,BENGALURU SOUTH,0.0,0.0,0.0,0.0,0.0,2.0,2.0,PROFORMA_APRIL_2019.xlsx,PRO-10
+2019,April 2019 main,main_exam,EE,MYSORE,0.0,0.0,0.0,0.0,0.0,1.0,1.0,PROFORMA_APRIL_2019.xlsx,PRO-10
+2019,April 2019 main,main_exam,GG,MANGALURU,0.0,0.0,0.0,1.0,0.0,0.0,1.0,PROFORMA_APRIL_2019.xlsx,PRO-10
+2019,April 2019 main,main_exam,LL,HASSAN,1.0,0.0,0.0,0.0,0.0,0.0,1.0,PROFORMA_APRIL_2019.xlsx,PRO-10
+2019,April 2019 main,main_exam,NN,BELAGAVI,0.0,5.0,0.0,0.0,0.0,0.0,5.0,PROFORMA_APRIL_2019.xlsx,PRO-10
+2019,April 2019 main,main_exam,OA,BAGALKOTE,1.0,4.0,0.0,1.0,0.0,0.0,6.0,PROFORMA_APRIL_2019.xlsx,PRO-10
+2019,April 2019 main,main_exam,OO,VIJAYAPURA,0.0,0.0,0.0,2.0,0.0,0.0,2.0,PROFORMA_APRIL_2019.xlsx,PRO-10
+2019,April 2019 main,main_exam,QA,YADGIR,0.0,2.0,0.0,0.0,0.0,0.0,2.0,PROFORMA_APRIL_2019.xlsx,PRO-10
+2019,April 2019 main,main_exam,RA,KOPPAL,0.0,0.0,0.0,0.0,1.0,0.0,1.0,PROFORMA_APRIL_2019.xlsx,PRO-10
+2020,June/July 2020 main (COVID-delayed),main_exam,FF,MANDYA,0.0,0.0,1.0,0.0,0.0,0.0,1.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-10
+2020,June/July 2020 main (COVID-delayed),main_exam,MA,HAVERI,1.0,0.0,0.0,0.0,0.0,0.0,1.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-10
+2020,June/July 2020 main (COVID-delayed),main_exam,MB,GADAG,1.0,1.0,3.0,1.0,0.0,0.0,6.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-10
+2020,June/July 2020 main (COVID-delayed),main_exam,OA,BAGALKOTE,0.0,1.0,0.0,0.0,2.0,0.0,3.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-10
+2020,June/July 2020 main (COVID-delayed),main_exam,OO,VIJAYAPURA,1.0,0.0,2.0,0.0,2.0,0.0,5.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-10
+2020,June/July 2020 main (COVID-delayed),main_exam,RR,RAICHUR,2.0,0.0,0.0,0.0,0.0,0.0,2.0,PROFORMA_JUNE_JULY_2020_LATEST.xlsx,PRO-10
+2021,"July 2021 (COVID two-day MCQ exam, all passed)",main_exam,OO,VIJAYAPURA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,PROFORMA_JULY_2021.xlsx,PRO-10
+2022,March/April 2022 main,main_exam,DD,TUMKUR,1.0,0.0,0.0,0.0,0.0,0.0,1.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-10
+2022,March/April 2022 main,main_exam,FF,MANDYA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-10
+2022,March/April 2022 main,main_exam,II,CHITRADURGA,0.0,0.0,1.0,0.0,1.0,0.0,2.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-10
+2022,March/April 2022 main,main_exam,OA,BAGALKOTE,0.0,0.0,4.0,0.0,0.0,0.0,4.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-10
+2022,March/April 2022 main,main_exam,OO,VIJAYAPURA,1.0,0.0,0.0,0.0,1.0,0.0,2.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-10
+2022,March/April 2022 main,main_exam,QQ,KALABURGI,3.0,2.0,1.0,0.0,0.0,0.0,6.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-10
+2022,March/April 2022 main,main_exam,RR,RAICHUR,1.0,0.0,0.0,0.0,0.0,0.0,1.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-10
+2022,March/April 2022 main,main_exam,TT,BELLARI,1.0,0.0,0.0,0.0,0.0,0.0,1.0,PROFORMA_APRIL_2022_FINAL.xlsx,PRO-10
+2023,March/April 2023 main,main_exam,MB,GADAG,3.0,0.0,2.0,0.0,0.0,0.0,5.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-10
+2023,March/April 2023 main,main_exam,QA,YADAGIRI,2.0,0.0,0.0,0.0,0.0,0.0,2.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-10
+2023,March/April 2023 main,main_exam,QQ,KALABURAGI,2.0,0.0,1.0,0.0,2.0,0.0,5.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-10
+2023,March/April 2023 main,main_exam,RR,RAICHURU,1.0,0.0,0.0,0.0,1.0,0.0,2.0,PROFORMA_APRIL_2023_FINAL.xlsx,PRO-10
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,AS,BENGALURU SOUTH,1.0,0.0,0.0,0.0,0.0,0.0,1.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-10
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,BA,RAMANAGARA,0.0,0.0,0.0,0.0,1.0,0.0,1.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-10
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,CA,CHIKKABALLAPURA,0.0,0.0,1.0,0.0,0.0,0.0,1.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-10
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,CC,KOLAR,0.0,1.0,1.0,0.0,0.0,0.0,2.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-10
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,IA,DAVANAGERE,0.0,1.0,1.0,0.0,0.0,0.0,2.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-10
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,MB,GADAG,3.0,0.0,0.0,0.0,0.0,0.0,3.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-10
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,MM,DHARWAD,1.0,0.0,0.0,0.0,0.0,0.0,1.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-10
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,OA,BAGALAKOTE,0.0,0.0,0.0,1.0,0.0,0.0,1.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-10
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,OO,VIJAYAPURA,0.0,0.0,0.0,0.0,0.0,1.0,1.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-10
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,QA,YADAGIRI,2.0,0.0,0.0,0.0,0.0,0.0,2.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-10
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,QQ,KALABURAGI,5.0,2.0,3.0,0.0,5.0,1.0,16.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-10
+2024,2024 best of Exams 1-3 (cumulative),best_of_3,RR,RAICHURU,0.0,3.0,0.0,0.0,0.0,0.0,3.0,SSLC_2024_best_of_3_proforma.xlsx,PRO-10
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,BA,RAMANAGARA,1.0,0.0,0.0,0.0,0.0,0.0,1.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-10
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,KK,SHIVAMOGGA,0.0,0.0,1.0,0.0,0.0,0.0,1.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-10
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,NN,BELAGAVI,1.0,0.0,1.0,1.0,1.0,0.0,4.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-10
+2025,2025 best of Exams 1-3 (cumulative),best_of_3,RR,RAICHURU,1.0,0.0,0.0,0.0,0.0,0.0,1.0,SSLC_2025_best_of_3_proforma.xlsx,PRO-10
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,CC,KOLAR,0.0,0.0,0.0,0.0,1.0,0.0,1.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-10
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,EE,MYSURU,0.0,0.0,0.0,0.0,1.0,0.0,1.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-10
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,II,CHITRADURGA,1.0,0.0,0.0,0.0,0.0,0.0,1.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-10
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,MM,DHARWAD,0.0,0.0,0.0,0.0,1.0,0.0,1.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-10
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,OO,VIJAYAPURA,1.0,0.0,0.0,0.0,0.0,0.0,1.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-10
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,QQ,KALABURAGI,0.0,0.0,0.0,0.0,1.0,0.0,1.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-10
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,RA,KOPPALA,0.0,1.0,0.0,0.0,0.0,0.0,1.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-10
+2026,2026 best of Exams 1-2 (cumulative),best_of_2,RR,RAICHURU,1.0,0.0,0.0,0.0,1.0,0.0,2.0,SSLC_2026_best_of_2_proforma.xlsx,PRO-10

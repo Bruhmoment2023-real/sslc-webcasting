@@ -1,0 +1,60 @@
+== P1 rank stability (Spearman) between adjacent first/main exams ==
+             series      pair  spearman  pearson  mean_abs_rank_move  sd_change
+  S1 all candidates 2014-2015     0.602    0.510               6.765      5.889
+  S1 all candidates 2015-2016     0.639    0.601               6.412      6.461
+  S1 all candidates 2016-2017     0.564    0.482               7.412      6.978
+  S1 all candidates 2017-2018     0.629    0.563               6.294      8.560
+  S1 all candidates 2018-2019     0.681    0.829               6.118      5.797
+  S1 all candidates 2019-2020     0.657    0.684               6.059      7.905
+  S1 all candidates 2020-2022     0.744    0.751               5.529      7.594
+  S1 all candidates 2022-2023     0.917    0.914               3.235      2.721
+  S1 all candidates 2023-2024     0.231    0.367               9.882     10.400
+S2 regular freshers 2015-2017     0.511    0.427               7.176      6.008
+S2 regular freshers 2017-2018     0.448    0.380               7.588      9.109
+S2 regular freshers 2018-2019     0.612    0.775               6.941      6.183
+S2 regular freshers 2019-2020     0.705    0.682               6.000      7.411
+S2 regular freshers 2020-2022     0.702    0.680               5.882      7.884
+S2 regular freshers 2022-2023     0.896    0.886               3.235      2.579
+S2 regular freshers 2023-2025     0.152    0.244              10.353     11.355
+S2 regular freshers 2025-2026     0.804    0.769               4.471      9.435
+S1 2024 vs earlier years (Spearman): {2014: np.float64(-0.076), 2015: np.float64(0.252), 2016: np.float64(0.378), 2017: np.float64(0.292), 2018: np.float64(0.306), 2019: np.float64(0.329), 2020: np.float64(0.213), 2022: np.float64(0.12), 2023: np.float64(0.231)}
+S2 2025 vs earlier years (Spearman): {2015: np.float64(0.389), 2017: np.float64(0.329), 2018: np.float64(0.283), 2019: np.float64(0.425), 2020: np.float64(0.269), 2022: np.float64(0.031), 2023: np.float64(0.152)}
+S1 2024 vs S2 2025 (Spearman): 0.878
+
+== P2 gaps between groups, state level ==
+management, regular freshers, first/main exam (workbooks to 2023, press notes 2024-26):
+       govt  aided  unaided  unaided_minus_govt
+year                                           
+2015  83.14  83.26    88.94                5.80
+2017  70.38  68.87    80.70               10.32
+2018  75.12  76.27    83.05                7.93
+2019  77.85  77.21    82.72                4.87
+2020  72.79  70.60    82.31                9.52
+2022  88.13  88.03    92.52                4.39
+2023  86.74  85.64    90.90                4.15
+2024  72.46  72.22    86.46               14.00
+2025  62.70  58.97    75.59               12.89
+2026  93.97  92.44    95.40                1.43
+rural/urban, regular freshers, first/main exam (2024 Exam-1 not usable: counts look swapped in the press note):
+      rural  urban  rural_minus_urban
+year                                 
+2015  86.36  82.89               3.46
+2017  74.12  72.18               1.94
+2018  79.52  76.33               3.19
+2019  81.89  76.23               5.66
+2020  77.18  73.41               3.77
+2022  91.44  86.88               4.56
+2023  90.07  84.49               5.57
+2025  65.47  67.05              -1.58
+2026  94.80  93.20               1.60
+
+== P3 taluk level (regular freshers excluding residential and corporation schools; cumulative from 2024) ==
+taluks: 210 | s.d. across taluks by year: {2017: 7.75, 2018: 10.47, 2019: 9.01, 2020: 12.35, 2021: 0.0, 2022: 5.37, 2023: 6.79, 2024: 8.49, 2025: 10.58, 2026: 1.41}
+taluk change 2018->2019 on 2018 level: n=204 slope=-0.480 r2=0.329 spearman(levels)=0.641 mean change=2.26
+taluk change 2019->2020 on 2019 level: n=203 slope=-0.202 r2=0.032 spearman(levels)=0.637 mean change=-4.33
+taluk change 2022->2023 on 2022 level: n=199 slope=-0.044 r2=0.003 spearman(levels)=0.766 mean change=-1.74
+taluk change 2023->2024 on 2023 level: n=204 slope=-0.787 r2=0.290 spearman(levels)=0.131 mean change=-3.00
+taluk change 2023->2025 on 2023 level: n=204 slope=-0.607 r2=0.139 spearman(levels)=0.211 mean change=-8.69
+
+== P4 permutation check of A4c (change 2023-24 on rise 2019-23), 20000 shuffles ==
+observed slope -0.748; share of shuffles with slope <= observed: 0.0112

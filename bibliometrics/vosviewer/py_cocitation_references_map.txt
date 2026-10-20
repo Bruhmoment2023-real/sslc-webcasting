@@ -1,0 +1,151 @@
+id	label	description	url	cluster	weight<Citations in corpus>	score<Pub. year>
+1	heyneman (2004.0)	Education and corruption	https://doi.org/10.1016/j.ijedudev.2004.02.005	2	67	2004.0
+2	heyneman (2007.0)	The Cost of Corruption in Higher Education	https://doi.org/10.1086/524367	2	54	2007.0
+3	mccabe (2001.0)	Cheating in Academic Institutions: A Decade of Research	https://doi.org/10.1207/s15327019eb1103_2	3	50	2001.0
+4	alessio (2017.0)	Examining the Effect of Proctoring on Online Test Scores	https://doi.org/10.24059/olj.v21i1.885	1	50	2017.0
+5	dendir (2020.0)	Cheating in online courses: Evidence from online proctoring	https://doi.org/10.1016/j.chbr.2020.100033	1	46	2020.0
+6	hylton (2015.0)	Utilizing webcam-based proctoring to deter misconduct in online exams	https://doi.org/10.1016/j.compedu.2015.10.002	1	46	2015.0
+7	harmon (2008.0)	Are Online Exams an Invitation to Cheat?	https://doi.org/10.3200/jece.39.2.116-125	1	45	2008.0
+8	hallak (2007.0)	Corrupt schools, corrupt universities : what can be done?	https://openalex.org/W632972475	2	38	2007.0
+9	rumyantseva (2005.0)	Taxonomy of Corruption in Higher Education	https://doi.org/10.1207/s15327930pje8001_5	2	37	2005.0
+10	atoum (2017.0)	Automated Online Exam Proctoring	https://doi.org/10.1109/tmm.2017.2656064	1	36	2017.0
+11	hollister (2009.0)	Proctored Versus Unproctored Online Exams: Studying the Impact of Exam Environment on Student Performance	https://doi.org/10.1111/j.1540-4609.2008.00220.x	1	36	2009.0
+12	karim (2014.0)	Cheating, Reactions, and Performance in Remotely Proctored Testing: An Exploratory Experimental Study	https://doi.org/10.1007/s10869-014-9343-z	1	35	2014.0
+13	waite (2003.0)	Corruption and Abuse of Power in Educational Administration	https://doi.org/10.1023/b:urre.0000017531.73129.4f	2	33	2003.0
+14	fask (2014.0)	Do Online Exams Facilitate Cheating? An Experiment Designed to Separate Possible Cheating from the Effect of the Online Test Taking Environment	https://doi.org/10.1007/s10805-014-9207-1	1	33	2014.0
+15	jacob (2003.0)	Rotten Apples: An Investigation of the Prevalence and Predictors of Teacher Cheating	https://doi.org/10.1162/00335530360698441	4	32	2003.0
+16	whitley (1998.0)	FACTORS ASSOCIATED WITH CHEATING AMONG COLLEGE STUDENTS: A Review	https://doi.org/10.1023/a:1018724900565	3	32	1998.0
+17	daffin (2018.0)	Comparing Student Performance on Proctored and Non-Proctored Exams in Online Psychology Courses	https://doi.org/10.24059/olj.v22i1.1079	1	30	2018.0
+18	petrov (2004.0)	Corruption in Higher Education	https://doi.org/10.1787/hemp-v16-art8-en	2	29	2004.0
+19	butler-henderson (2020.0)	A systematic review of online examinations: A pedagogical innovation for scalable authentication and integrity	https://doi.org/10.1016/j.compedu.2020.104024	1	28	2020.0
+20	king (2009.0)	Online Exams and Cheating: An Empirical Analysis of Business Students’ Views	https://doi.org/10.9743/jeo.2009.1.5	1	27	2009.0
+21	osipian (2007.0)	Corruption in Higher Education: Conceptual Approaches and Measurement Techniques	https://doi.org/10.2304/rcie.2007.2.4.313	2	27	2007.0
+22	bilen (2020.0)	Online cheating amid COVID-19	https://doi.org/10.1016/j.jebo.2020.12.004	1	26	2020.0
+23	mccabe (1997.0)	Individual and Contextual Influences on Academic Dishonesty: A Multicampus Investigation	https://doi.org/10.1023/a:1024954224675	3	26	1997.0
+24	milone (2016.0)	The impact of proctored online exams on the educational experience	https://doi.org/10.1016/j.cptl.2016.08.037	1	25	2016.0
+25	nigam (2021.0)	A Systematic Review on AI-based Proctoring Systems: Past, Present and Future	https://doi.org/10.1007/s10639-021-10597-x	1	25	2021.0
+26	grijalva (2006.0)	Academic Honesty and Online Courses	https://openalex.org/W3407076	3	23	2006.0
+27	watson (2010.0)	Cheating in the Digital Age: Do Students Cheat More in Online Courses?.	https://openalex.org/W2626481528	1	23	2010.0
+28	hussein (2020.0)	An Evaluation of Online Proctoring Tools	https://doi.org/10.5944/openpraxis.12.4.1113	1	23	2020.0
+29	coghlan (2021.0)	Good Proctor or “Big Brother”? Ethics of Online Exam Supervision Technologies	https://doi.org/10.1007/s13347-021-00476-1	1	23	2021.0
+30	wikström (2004.0)	Grade inflation and school competition: an empirical analysis based on the Swedish upper secondary schools	https://doi.org/10.1016/j.econedurev.2004.04.010	4	22	2004.0
+31	chapman (2014.0)	Degrees of integrity: the threat of corruption in higher education	https://doi.org/10.1080/03075079.2014.927854	2	22	2014.0
+32	holden (2021.0)	Academic Integrity in Online Assessment: A Research Review	https://doi.org/10.3389/feduc.2021.639814	1	21	2021.0
+33	noorbehbahani (2022.0)	A systematic review of research on cheating in online exams from 2010 to 2021	https://doi.org/10.1007/s10639-022-10927-7	1	21	2022.0
+34	d’souza (2017.0)	A Conceptual Framework for Detecting Cheating in Online and Take‐Home Exams	https://doi.org/10.1111/dsji.12140	1	21	2017.0
+35	osipian (2008.0)	Corruption hierarchies in higher education in the former Soviet Bloc	https://doi.org/10.1016/j.ijedudev.2008.08.006	2	20	2008.0
+36	osipian (2008.0)	Corruption in Higher Education: Does it Differ across the Nations and Why?	https://doi.org/10.2304/rcie.2008.3.4.345	2	20	2008.0
+37	anechiarico (1996.0)	The Pursuit of Absolute Integrity: How Corruption Control Makes Government Ineffective	https://openalex.org/W1994286703	2	20	1996.0
+38	beck (2014.0)	Testing a model to predict online cheating—Much ado about nothing	https://doi.org/10.1177/1469787413514646	1	20	2014.0
+39	vazquez (2020.0)	Can we stay one step ahead of cheaters? A field experiment in proctoring online open book exams	https://doi.org/10.1016/j.socec.2020.101653	1	20	2020.0
+40	woldeab (2019.0)	21st Century Assessment: Online Proctoring, Test Anxiety, and Student Performance	https://openalex.org/W2972143772	1	20	2019.0
+41	bretag (2013.0)	Global Corruption Report: Education	https://doi.org/10.4324/9780203109816	2	19	2013.0
+42	jacob (2004.0)	Accountability, incentives and behavior: the impact of high-stakes testing in the Chicago Public Schools	https://doi.org/10.1016/j.jpubeco.2004.08.004	4	19	2004.0
+43	sabot (1991.0)	Grade Inflation and Course Choice	https://doi.org/10.1257/jep.5.1.159	4	19	1991.0
+44	rose‐ackerman (1978.0)	Corruption: A study in political economy	https://openalex.org/W1547594580	2	19	1978.0
+45	bardhan (2017.0)	Corruption and Development: A Review of Issues	https://doi.org/10.4324/9781315126647-30	2	19	2017.0
+46	akaranga (2013.0)	The Phenomenon of Examination Malpractice: An Example of Nairobi and Kenyatta Universities	https://openalex.org/W1488477423	5	19	2013.0
+47	heyneman (2007.0)	Three universities in Georgia, Kazakhstan and Kyrgyzstan: the struggle against corruption and for social cohesion	https://doi.org/10.1007/s11125-008-9037-2	2	18	2007.0
+48	r (2021.0)	Adoption of online proctored examinations by university students during COVID-19: Innovation diffusion study	https://doi.org/10.1007/s10639-021-10581-5	1	18	2021.0
+49	lee (2022.0)	Online exam proctoring technologies: Educational innovation or deterioration?	https://doi.org/10.1111/bjet.13182	1	18	2022.0
+50	nye (1967.0)	Corruption and Political Development: A Cost-Benefit Analysis	https://doi.org/10.2307/1953254	2	18	1967.0
+51	osipian (2009.0)	Corruption and Reform in Higher Education in Ukraine	https://doi.org/10.5206/cie-eci.v38i2.9139	2	17	2009.0
+52	mccabe (2006.0)	Academic Dishonesty in Graduate Business Programs: Prevalence, Causes, and Proposed Action	https://doi.org/10.5465/amle.2006.22697018	3	17	2006.0
+53	janke (2021.0)	Cheating in the wake of COVID-19: How dangerous is ad-hoc online testing for academic integrity?	https://doi.org/10.1016/j.caeo.2021.100055	1	17	2021.0
+54	rios (2017.0)	Online Proctored Versus Unproctored Low-Stakes Internet Test Administration: Is There Differential Test-Taking Behavior and Performance?	https://doi.org/10.1080/08923647.2017.1258628	1	17	2017.0
+55	reedy (2021.0)	Responding to the COVID-19 emergency: student and academic staff perceptions of academic integrity in the transition to online exams at three Australian universities	https://doi.org/10.1007/s40979-021-00075-9	1	17	2021.0
+56	newton (2023.0)	How Common is Cheating in Online Exams and did it Increase During the COVID-19 Pandemic? A Systematic Review	https://doi.org/10.1007/s10805-023-09485-5	1	16	2023.0
+57	golden (2020.0)	Addressing cheating when using test bank questions in online Classes	https://doi.org/10.1016/j.jaccedu.2020.100671	1	16	2020.0
+58	kennedy (2000.0)	Academic dishonesty and distance learning: Student and faculty views.	https://openalex.org/W1617189849	3	16	2000.0
+59	hallak (2002.0)	ETHICS AND CORRUPTION IN EDUCATION	https://openalex.org/W3110153116	2	16	2002.0
+60	chan (2007.0)	A SIGNALING THEORY OF GRADE INFLATION*	https://doi.org/10.1111/j.1468-2354.2007.00454.x	4	16	2007.0
+61	arnold (2016.0)	Cheating at online formative tests: Does it pay off?	https://doi.org/10.1016/j.iheduc.2016.02.001	1	16	2016.0
+62	mccabe (2017.0)	Academic Dishonesty	https://doi.org/10.4324/9781315263465-43	3	16	2017.0
+63	sayed (1998.0)	Police Corruption: Towards a Working Definition	https://doi.org/10.1080/10246029.1998.9627832	2	16	1998.0
+64	jimoh (2009.0)	Examination Malpractice in Secondary Schools in Nigeria: What Sustains It?	https://openalex.org/W2182379911	5	16	2009.0
+65	gamage (2020.0)	Online Delivery and Assessment during COVID-19: Safeguarding Academic Integrity	https://doi.org/10.3390/educsci10110301	1	16	2020.0
+66	kharbat (2021.0)	E-proctored exams during the COVID-19 pandemic: A close understanding	https://doi.org/10.1007/s10639-021-10458-7	1	16	2021.0
+67	mccabe (2005.0)	Cheating among college and university students: A North American perspective	https://doi.org/10.21913/ijei.v1i1.14	3	15	2005.0
+68	ladyshewsky (2014.0)	Post-graduate student performance in ‘supervised in-class’ vs. ‘unsupervised online’ multiple choice tests: implications for cheating and test security	https://doi.org/10.1080/02602938.2014.956683	1	15	2014.0
+69	selwyn (2021.0)	A necessary evil? The rise of online exam proctoring in Australian universities	https://doi.org/10.1177/1329878x211005862	1	15	2021.0
+70	mccabe (1993.0)	Academic Dishonesty: Honor Codes and Other Contextual Influences	https://doi.org/10.2307/2959991	3	15	1993.0
+71	stuber (2009.0)	Point, Click, and Cheat: Frequency and Type of Academic Dishonesty in the Virtual Classroom	https://openalex.org/W1496732584	1	15	2009.0
+72	corrigan-gibbs (2015.0)	Deterring Cheating in Online Environments	https://doi.org/10.1145/2810239	1	15	2015.0
+73	banerjee (2007.0)	Remedying Education: Evidence from Two Randomized Experiments in India	https://doi.org/10.1162/qjec.122.3.1235	2	15	2007.0
+74	paredes (2021.0)	Remote proctored exams: Integrity assurance in online education?	https://doi.org/10.1080/01587919.2021.1910495	1	15	2021.0
+75	osipian (2008.0)	Corruption and Coercion: University Autonomy Versus State Control	https://doi.org/10.2753/eue1056-4934400302	2	14	2008.0
+76	osipian (2008.0)	Political Graft and Education Corruption in Ukraine: Compliance, Collusion, and Control	https://doi.org/10.3200/demo.16.4.323-344	2	14	2008.0
+77	silova (2007.0)	Education and the Crisis of Social Cohesion in Azerbaijan and Central Asia	https://doi.org/10.1086/512022	2	14	2007.0
+78	rettinger (2008.0)	Situational and Personal Causes of Student Cheating	https://doi.org/10.1007/s11162-008-9116-5	1	14	2008.0
+79	jordan (2001.0)	College Student Cheating: The Role of Motivation, Perceived Norms, Attitudes, and Knowledge of Institutional Policy	https://doi.org/10.1207/s15327019eb1103_3	3	14	2001.0
+80	alessio (2018.0)	Interaction of Proctoring and Student Major on Online Test Performance	https://doi.org/10.19173/irrodl.v19i5.3698	1	14	2018.0
+81	cizek (1999.0)	Cheating on Tests	https://doi.org/10.4324/9781410601520	3	14	1999.0
+82	kerkvliet (1999.0)	Can We Control Cheating in the Classroom?	https://doi.org/10.1080/00220489909596090	3	14	1999.0
+83	li (2015.0)	Massive Open Online Proctor	https://doi.org/10.1145/2675133.2675245	1	14	2015.0
+84	johnston (1996.0)	The search for definitions: the vitality of politics and the issue of corruption	https://doi.org/10.1111/1468-2451.00035	2	14	1996.0
+85	alutu (2006.0)	Secondary Schools Student’s Perception of Examination Malpractices and Examination Ethics	https://doi.org/10.1080/09709274.2006.11905942	5	14	2006.0
+86	svensson (2005.0)	Eight Questions about Corruption	https://doi.org/10.1257/089533005774357860	2	14	2005.0
+87	neal (2010.0)	Left Behind by Design: Proficiency Counts and Test-Based Accountability	https://doi.org/10.1162/rest.2010.12318	4	13	2010.0
+88	bertoni (2013.0)	When the cat is near, the mice won't play: The effect of external examiners in Italian schools	https://doi.org/10.1016/j.jpubeco.2013.04.010	4	13	2013.0
+89	berkey (2015.0)	Cheating, Student Authentication and Proctoring in Online Programs.	https://openalex.org/W2471649231	1	13	2015.0
+90	čábelková (2004.0)	The power of negative thinking: corruption, perception and willingness to bribe in Ukraine	https://doi.org/10.1080/00036840410001674303	2	13	2004.0
+91	yates (2009.0)	The Impact of Online Assessment on Grades in Community College Distance Education Mathematics Courses	https://doi.org/10.1080/08923640902850601	1	13	2009.0
+92	elsalem (2021.0)	Remote E-exams during Covid-19 pandemic: A cross-sectional study of students’ preferences and academic dishonesty in faculties of medical sciences	https://doi.org/10.1016/j.amsu.2021.01.054	1	13	2021.0
+93	prathish (2016.0)	An intelligent system for online exam monitoring	https://doi.org/10.1109/infosci.2016.7845315	1	13	2016.0
+94	treisman (2000.0)	The causes of corruption: a cross-national study	https://doi.org/10.1016/s0047-2727(99)00092-4	2	13	2000.0
+95	muralidharan (2011.0)	Teacher Performance Pay: Experimental Evidence from India	https://doi.org/10.1086/659655	2	13	2011.0
+96	chaudhury (2006.0)	Missing in Action: Teacher and Health Worker Absence in Developing Countries	https://doi.org/10.1257/089533006776526058	2	13	2006.0
+97	mažar (2008.0)	The Dishonesty of Honest People: A Theory of Self-Concept Maintenance	https://doi.org/10.1509/jmkr.45.6.633	3	13	2008.0
+98	muzaffar (2021.0)	A Systematic Review of Online Exams Solutions in E-Learning: Techniques, Tools, and Global Adoption	https://doi.org/10.1109/access.2021.3060192	1	13	2021.0
+99	onyibe (2015.0)	Examination Malpractice in Nigeria: Causes and Effects on National Development	https://openalex.org/W2342619637	5	13	2015.0
+100	osipian (2009.0)	‘Feed from the Service’: Corruption and Coercion in State-University Relations in Central Eurasia	https://doi.org/10.2304/rcie.2009.4.2.182	2	12	2009.0
+101	osipian (2015.0)	Higher Education Corruption in Ukraine: Opinions and Estimates	https://doi.org/10.6017/ihe.2007.49.7981	2	12	2015.0
+102	bawarith (2017.0)	E-exam Cheating Detection System	https://doi.org/10.14569/ijacsa.2017.080425	1	12	2017.0
+103	becker (2006.0)	Using the Business Fraud Triangle to Predict Academic Dishonesty among Business Students	https://openalex.org/W2992629658	1	12	2006.0
+104	crown (1998.0)	Learning from the Literature on Collegiate Cheating: A Review of Empirical Research	https://doi.org/10.1023/a:1017903001888	3	12	1998.0
+105	mccabe (1999.0)	Academic Integrity in Honor Code and Non-Honor Code Environments	https://doi.org/10.1080/00221546.1999.11780762	3	12	1999.0
+106	lanier (2006.0)	Academic Integrity and Distance Learning	https://doi.org/10.1080/10511250600866166	3	12	2006.0
+107	sabic‐el‐rayess (2016.0)	Favor reciprocation theory in education: New corruption typology	https://doi.org/10.1016/j.ijedudev.2016.04.005	2	12	2016.0
+108	rowe (2004.0)	Cheating in Online Student Assessment: Beyond Plagiarism	https://openalex.org/W1541838146	3	12	2004.0
+109	anon. (2000.0)	Corruption and government: causes, consequences, and reform	https://doi.org/10.5860/choice.37-3570	2	12	2000.0
+110	chuang (2017.0)	Detecting probable cheating during online assessments based on time delay and head pose	https://doi.org/10.1080/07294360.2017.1303456	1	12	2017.0
+111	li (2021.0)	A visual analytics approach to facilitate the proctoring of online exams	https://openalex.org/W3160876788	1	12	2021.0
+112	shleifer (1993.0)	Corruption	https://doi.org/10.2307/2118402	2	12	1993.0
+113	reinikka (2004.0)	Local Capture: Evidence from a Central Government Transfer Program in Uganda	https://doi.org/10.1162/0033553041382120	2	12	2004.0
+114	rojstaczer (2012.0)	Where a is Ordinary: The Evolution of American College and University Grading, 1940-2009	https://doi.org/10.1177/016146811211400707	4	12	2012.0
+115	davis (1992.0)	Academic Dishonesty: Prevalence, Determinants, Techniques, and Punishments	https://doi.org/10.1207/s15328023top1901_3	3	12	1992.0
+116	kuh (1999.0)	Unraveling the Complexity of the Increase in College Grades From the Mid-1980s to the Mid-1990s	https://doi.org/10.2307/1164237	4	12	1999.0
+117	gonzález (2020.0)	Implementation of E-Proctoring in Online Teaching: A Study about Motivational Factors	https://doi.org/10.3390/su12083488	1	12	2020.0
+118	tanzi (1998.0)	Corruption Around the World	https://doi.org/10.2139/ssrn.882334	2	11	1998.0
+119	moten (2013.0)	Examining Online College Cyber Cheating Methods and Prevention Measures.	https://openalex.org/W1743167190	1	11	2013.0
+120	guangul (2020.0)	Challenges of remote assessment in higher education in the context of COVID-19: a case study of Middle East College	https://doi.org/10.1007/s11092-020-09340-w	1	11	2020.0
+121	dyer (2020.0)	Academic Dishonesty and Testing: How Student Beliefs and Test Settings Impact Decisions to Cheat	https://openalex.org/W3027227307	1	11	2020.0
+122	diekhoff (1996.0)	College cheating: Ten years later	https://doi.org/10.1007/bf01730111	3	11	1996.0
+123	bar (2009.0)	Grade Information and Grade Inflation: The Cornell Experiment	https://doi.org/10.1257/jep.23.3.93	4	11	2009.0
+124	carstairs (2009.0)	Internet testing: A natural experiment reveals test score inflation on a high-stakes, unproctored cognitive test	https://doi.org/10.1016/j.chb.2009.01.011	1	11	2009.0
+125	ajzen (1991.0)	The theory of planned behavior	https://doi.org/10.1016/0749-5978(91)90020-t	3	11	1991.0
+126	braun (2006.0)	Using thematic analysis in psychology	https://doi.org/10.1191/1478088706qp063oa	1	11	2006.0
+127	petters (2014.0)	Students’ Perception of Causes and Effects of Examination Malpractice in the Nigerian Educational System: The Way Forward for Quality Education	https://doi.org/10.1016/j.sbspro.2013.12.671	5	11	2014.0
+128	genereux (1995.0)	Circumstances surrounding cheating: A questionnaire study of college students	https://doi.org/10.1007/bf02208251	3	11	1995.0
+129	nigeria (1986.0)	National Policy on Education 1986	https://doi.org/10.1177/0019556119860327	5	11	1986.0
+130	reisenwitz (2020.0)	Examining the Necessity of Proctoring Online Exams	https://doi.org/10.33423/jhetp.v20i1.2782	1	11	2020.0
+131	onuka (2013.0)	Stakeholders' role in curbing examination malpractice in Nigeria	https://openalex.org/W2184240095	5	11	2013.0
+132	bachan (2015.0)	Grade inflation in UK higher education	https://doi.org/10.1080/03075079.2015.1019450	4	10	2015.0
+133	denisova–schmidt (2018.0)	Corruption, the Lack of Academic Integrity and Other Ethical Issues in Higher Education: What Can Be Done Within the Bologna Process?	https://doi.org/10.1007/978-3-319-77407-7_5	2	10	2018.0
+134	osipian (2009.0)	Vouchers, tests, loans, privatization: Will they help tackle corruption in Russian higher education?	https://doi.org/10.1007/s11125-009-9117-y	2	10	2009.0
+135	figlio (2006.0)	Accountability, Ability and Disability: Gaming the System?	https://doi.org/10.1016/s0278-0984(06)14002-x	4	10	2006.0
+136	sullivan (2016.0)	An Integrated Approach to Preempt Cheating on Asynchronous, Objective, Online Assessments in Graduate Business Classes	https://doi.org/10.24059/olj.v20i3.650	1	10	2016.0
+137	rogers (2006.0)	Faculty perceptions about e-cheating during online testing	https://doi.org/10.5555/1181901.1181936	1	10	2006.0
+138	jenkins (2022.0)	When Opportunity Knocks: College Students’ Cheating Amid the COVID-19 Pandemic	https://doi.org/10.1177/00986283211059067	3	10	2022.0
+139	mccabe (2002.0)	Honor Codes and Other Contextual Influences on Academic Integrity: A Replication and Extension to Modified Honor Code Settings	https://doi.org/10.1023/a:1014893102151	3	10	2002.0
+140	haines (1986.0)	College cheating: Immaturity, lack of commitment, and the neutralizing attitude	https://doi.org/10.1007/bf00992130	3	10	1986.0
+141	babcock (2010.0)	REAL COSTS OF NOMINAL GRADE INFLATION? NEW EVIDENCE FROM STUDENT COURSE EVALUATIONS	https://doi.org/10.1111/j.1465-7295.2009.00245.x	4	10	2010.0
+142	murdock (2006.0)	Motivational Perspectives on Student Cheating: Toward an Integrated Model of Academic Dishonesty	https://doi.org/10.1207/s15326985ep4103_1	3	10	2006.0
+143	bedford (2009.0)	Implementing Technology to Prevent Online Cheating: A Case Study at a Small Southern Regional University (SSRU)	https://openalex.org/W2182998480	1	10	2009.0
+144	tirole (2008.0)	Collusion and the theory of organizations	https://doi.org/10.1017/ccol0521430194.003	2	10	2008.0
+145	mellar (2018.0)	Addressing cheating in e-assessment using student authentication and authorship checking systems: teachers’ perspectives	https://doi.org/10.1007/s40979-018-0025-x	1	10	2018.0
+146	borcan (2017.0)	Fighting Corruption in Education: What Works and Who Benefits?	https://doi.org/10.1257/pol.20150074	2	10	2017.0
+147	becker (1974.0)	Law Enforcement, Malfeasance, and Compensation of Enforcers	https://doi.org/10.1086/467507	2	10	1974.0
+148	mocan (2008.0)	WHAT DETERMINES CORRUPTION? INTERNATIONAL EVIDENCE FROM MICRODATA	https://doi.org/10.1111/j.1465-7295.2007.00107.x	2	10	2008.0
+149	eiszler (2002.0)	College Students' Evaluations of Teaching and Grade Inflation	https://doi.org/10.1023/a:1015579817194	4	10	2002.0
+150	chirumamilla (2020.0)	Cheating in e-exams and paper exams: the perceptions of engineering students and teachers in Norway	https://doi.org/10.1080/02602938.2020.1719975	1	10	2020.0

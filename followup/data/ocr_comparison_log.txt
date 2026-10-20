@@ -1,0 +1,24 @@
+
+===== exam1_2024_district_all_candidates.csv vs ocr_PN_2024_Exam1_p11_rows.txt
+rows in CSV 35 | rows recovered by OCR 35
+cell discrepancies: 0
+rows whose recomputed % differs from printed by >0.01: 0
+column sums (CSV): appeared 859300 passed 631204 pct 73.46
+state total printed elsewhere in the note (Table 1): (859967, 631204, 73.4) | district-table sum differs by 667 appeared and 0 passed
+rank_2024 is 1..35 in order: True | rank_2023 is a permutation of 1..35: True | pct non-increasing: True
+
+===== exam1_2025_district_regular_fresh.csv vs ocr_PN_2025_Exam1_p08_rows.txt
+rows in CSV 35 | rows recovered by OCR 35
+cell discrepancies: 0
+rows whose recomputed % differs from printed by >0.01: 0
+column sums (CSV): appeared 790890 passed 523075 pct 66.14
+printed TOTAL row (OCR): [790890.0, 523075.0, 66.14] | match: True
+
+===== exam1_2026_district_regular_fresh.csv vs ocr_PN_2026_Exam1_p07_rows.txt
+rows in CSV 35 | rows recovered by OCR 35
+cell discrepancies: 0
+rows whose recomputed % differs from printed by >0.01: 0
+column sums (CSV): appeared 770209 passed 724794 pct 94.1
+printed TOTAL row (OCR): [770209.0, 724794.0, 94.1, 80.04] | match: True
+
+TOTAL cells compared: 420 | discrepancies: 0

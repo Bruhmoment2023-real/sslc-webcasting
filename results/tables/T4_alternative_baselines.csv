@@ -1,0 +1,9 @@
+spec,n,slope,se,p,r2,spearman,spearman_p
+A4a change 2023-24 on 2018-19 average level,34,0.139,0.185,0.452,0.015,0.062,0.727
+A4b change 2023-24 on 2022 level,34,-0.628,0.428,0.142,0.095,-0.328,0.058
+A4c change 2023-24 on rise 2019-23,34,-0.748,0.273,0.006,0.147,-0.394,0.021
+A4c2 change 2023-24 on rise (2018-19 avg) to (2022-23 avg),34,-0.723,0.271,0.008,0.186,-0.441,0.009
+A4d change (2018-19 avg)->2024 on 2018-19 average level,34,-0.345,0.146,0.018,0.108,-0.296,0.09
+A4e [post hoc] 2024 level on 2023 level,34,0.619,0.332,0.062,0.135,0.231,0.189
+A4f [post hoc] 2024 level on 2018-19 average level,34,0.655,0.146,0.0,0.305,0.346,0.045
+A4g [post hoc] 2023 level on 2018-19 average level,34,0.516,0.093,0.0,0.539,0.665,0.0
