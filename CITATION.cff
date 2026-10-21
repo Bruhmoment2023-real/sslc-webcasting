@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 title: "Pass rates after exam webcasting: a descriptive district analysis of Karnataka's SSLC examination, 2014-2026"
+doi: 10.5281/zenodo.23537690
 type: software
 authors:
   - family-names: "Solano Paul"
