@@ -23,7 +23,7 @@ consecutive exams 0.56-0.92 before, 0.23 for 2023-24, then 0.80-0.88).
 | `results/` | Frozen pre-specification (`PRESPEC_frozen_before_analysis.md`), `RESULTS_SUMMARY.md`, analysis and post-hoc logs, `tables/`, `figures/` |
 | `followup/` | Follow-up analyses: II PUC (Class 12) comparison, learning-gap (NAS 2021) test, OCR verification of the 2024-2026 tables (`code/`, `data/`, `results/`) |
 | `docs/` | Facts timeline, prior-work notes, design, follow-up notes (`facts-update`, `puc-comparison`, `learning-gap-test`, `table-recheck`), appendix data dictionary |
-| `literature/` | `references.bib`, `references.ris` |
+| `literature/` | `citations/references.bib`, `citations/references.ris` |
 | `bibliometrics/` | A literature map (OpenAlex-based): scripts, tables, figures, search protocol, cleaned corpus metadata |
 
 ## How to reproduce
