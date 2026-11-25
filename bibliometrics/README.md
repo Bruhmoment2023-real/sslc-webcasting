@@ -5,7 +5,7 @@ Data-driven map of the literature around: *Did exam-hall webcasting/CCTV cut Kar
 - **Corpus size:** 1218 records (Exam cheating, malpractice and monitoring: 652; Corruption in education: 307; Grade inflation and manipulation of high-stakes results: 170; Indian board examinations and learning outcomes: 82; seed: 7)
 - **Date of pull:** 2026-10-13
 - **Sources:** discovery in Crossref, Semantic Scholar, ERIC and arXiv; metadata from OpenAlex; forward citations from OpenCitations. No Scopus/WoS data (EMPTY - no Scopus/WoS export to merge; corpus is OpenAlex-only).
-- **Made by:** an AI agent (Claude). It contains data, figures, tables and bullet-point analysis only - no manuscript prose.
+- **Contents:** data, figures, tables and bullet-point analysis only - no manuscript prose.
 
 ## What is here
 
